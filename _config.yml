@@ -86,7 +86,7 @@ author:
   bio              : "Professor of Biostatistics"
   location         : "Ann Arbor"
   employer         : "University of Michigan"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=xiang+zhou"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=xiang+zhou+umich"
   googlescholar    : "https://scholar.google.com/citations?user=h4_CmPoAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-4331-7599"
+  orcid            : "0000-0002-4331-7599"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -249,7 +249,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _data
+  # _resources
   - scope:
       path: ""
       type: resources
@@ -257,6 +257,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comment: true
 
 # Sass/SCSS
 sass:
