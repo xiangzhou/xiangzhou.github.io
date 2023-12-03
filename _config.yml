@@ -14,6 +14,7 @@ description              : &description "Professor of Biostatistics"
 url                      : https://xzlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xzlab.github.io"
+github                   : [metadata] # Fixes warning about GitHub metadata
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,8 +84,8 @@ author:
   name             : "Xiang Zhou"
   avatar           : "profile.png"
   bio              : "Professor of Biostatistics"
-  location         : "University of Michigan"
-  employer         :
+  location         : "Ann Arbor"
+  employer         : "University of Michigan"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=xiang+zhou"
   googlescholar    : "https://scholar.google.com/citations?user=h4_CmPoAAAAJ&hl=en"
   email            :
@@ -109,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/xzlab_org"
   vine             :
   weibo            :
   xing             :
