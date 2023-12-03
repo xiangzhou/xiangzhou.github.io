@@ -176,16 +176,19 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  team:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  courses:
     output: true
     permalink: /:collection/:path/
-  talks:
+  software:
+    output: true
+    permalink: /:collection/:path/
+  data:
     output: true
     permalink: /:collection/:path/
 
@@ -210,10 +213,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _team
   - scope:
       path: ""
-      type: teaching
+      type: team
     values:
       layout: single
       author_profile: true
@@ -228,21 +231,30 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _courses
   - scope:
       path: ""
-      type: portfolio
+      type: courses
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _software
+  - scope:
+      path: ""
+      type: software
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _data
   - scope:
       path: ""
-      type: talks
+      type: data
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
