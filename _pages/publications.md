@@ -8,7 +8,7 @@ author_profile: true
 
 The full list of publications is available on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
-* authors contributed equally; /# co-corresponding authors
+\* authors contributed equally; /# co-corresponding authors
 
 2023
 - Boran Gao, and Xiang Zhou. MESuSiE: Multi-ancestry fine-mapping for scalable and powerful discovery of shared and ancestry-specific putative causal variants in genome-wide association studies. Nature Genetics. in press.
