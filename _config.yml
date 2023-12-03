@@ -188,7 +188,7 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
-  data:
+  resources:
     output: true
     permalink: /:collection/:path/
 
@@ -252,7 +252,7 @@ defaults:
   # _data
   - scope:
       path: ""
-      type: data
+      type: resources
     values:
       layout: single
       author_profile: true
