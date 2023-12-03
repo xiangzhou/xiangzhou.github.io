@@ -10,7 +10,7 @@ redirect_from:
 
 
 Current Members
-
+======
 Xiang Zhou, Professor in the Department of Biostatistics at the University of Michigan. Before joining UM, he was a William H. Kruskal Instructor in the Department of Statistics at the University of Chicago. He received his postdoc training in Matthew Stephens lab in the Department of Human Genetics and Department of Statistics at the University of Chicago, where he also worked closely with people in Yoav Gilad lab. He obtained his MS and PhD degrees at Duke University, where his was advised by Fan Wang and Scott Schmidler, and worked closely with Jerry Reiter. He was trained as both a statistician and a biologist.
 
 Kalins Banerjee, Postdoc (09/2021 - Present).
@@ -38,8 +38,10 @@ Peiyao Zhao, PhD Student of Biostatistics (10/2020 - Present), admitted to the P
 Yanlin Tong, PhD Student of Biostatistics (05/2022 - Present), admitted to the PhD program in 2023.
 
 Robert Langefeld, MS Student of Biostatistics (09/2022 - Present), Genome Science Training Program (GSTP), admitted to the MS program in 2022.
-Alumni
 
+
+Alumni
+======
 Fred Boehm, Postdoc (06/2021-05/2023), now a Postdoc at University of Michigan working on joint projects.
 
 Yue Fan, Visiting PhD Student (11/2017-11/2019), now an Assistant Professor at Xi'an Jiaotong University.
