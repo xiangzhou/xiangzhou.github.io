@@ -11,7 +11,7 @@ title                    : "Xiang Zhou Lab Website"
 title_separator          : "-"
 name                     : &name "Xiang Zhou"
 description              : &description "Professor of Biostatistics"
-url                      : https://xzlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xiangzhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xzlab.github.io"
 github                   : [metadata] # Fixes warning about GitHub metadata
