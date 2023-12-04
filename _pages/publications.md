@@ -71,3 +71,21 @@ The full list of publications is available on <u><a href="{https://scholar.googl
 - Ping Zeng, Xingjie Hao and Xiang Zhou (2018). Pleiotropic mapping and annotation selection in genome-wide association studies with penalized Gaussian mixture models. Bioinformatics. 34: 2797-2807. 
 - Lorin Crawford#, Kris C. Wood, Xiang Zhou# and Sayan Mukherjee# (2018). Bayesian approximate kernel regression with variable selection. Journal of the American Statistical Association. 113: 1710-1721.
 - Xingjie Hao, Ping Zeng, Shujun Zhang and Xiang Zhou (2018). Identifying and exploiting trait-relevant tissues with multiple functional annotations in genome-wide association studies. PLOS Genetics. e1007186.
+
+## 2017
+
+- Mengjie Chen and Xiang Zhou (2017). Controlling for confounding effects in single cell RNA sequencing studies using both control and target genes. Scientific Reports. 7: 13587. 
+- Jingjing Yang, Lars G. Fritsche, Xiang Zhou# and Goncalo Abecasis# (2017). A scalable Bayesian method for integrating functional information in genome-wide association studies. American Journal of Human Genetics. 101: 404-416.
+- Ping Zeng and Xiang Zhou (2017). Non-parametric genetic prediction of complex traits with latent Dirichlet process regression models. Nature Communications. 8: 456.
+- Lorin Crawford, Ping Zeng, Sayan Mukherjee and Xiang Zhou (2017). Detecting epistasis with the marginal epistasis test in genetic mapping studies of quantitative traits. PLOS Genetics. e1006869. 
+- Xiang Zhou (2017). A unified framework for variance component estimation with summary statistics in genome-wide association studies. Annals of Applied Statistics. 11(4): 2027-2051.
+- Shiquan Sun, Michelle Hood, Laura Scott, Qinke Peng, Sayan Mukherjee, Jenny Tung and Xiang Zhou (2017). Differential expression analysis for RNAseq using Poisson mixed models. Nucleic Acids Research. 45(11): e106.
+
+## 2016
+
+- Noah Snyder-Mackler, William H Majoros, Michael L Yuan, Amanda O Shaver, Jacob B Gordon, Gisela H Kopp, Stephen A Schlebusch, Jeffrey D Wall, Susan C Alberts, Sayan Mukherjee, Xiang Zhou# and Jenny Tung# (2016). Efficient genome-wide sequencing and low-coverage pedigree analysis from non-invasively collected samples. Genetics. 203: 699-714.
+
+## 2015
+
+- Amanda J. Lea, Jenny Tung# and Xiang Zhou# (2015). A flexible, efficient binomial mixed model for identifying differential DNA methylation in bisulfite sequencing data. PLOS Genetics. 11: e1005650.
+- Jenny Tung\*, Xiang Zhou\*, Susan C Alberts, Matthew Stephens and Yoav Gilad (2015). The genetic architecture of gene expression levels in wild baboons. eLife. 4: e04729.
