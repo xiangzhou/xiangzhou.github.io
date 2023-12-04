@@ -86,7 +86,7 @@ author:
   bio              : "Professor of Biostatistics"
   location         : "Ann Arbor"
   employer         : "University of Michigan"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=xiang+zhou+umich"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=(Xiang+Zhou)+AND+(Michigan+OR+Chicago)"
   googlescholar    : "https://scholar.google.com/citations?user=h4_CmPoAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
