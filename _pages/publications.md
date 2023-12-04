@@ -10,14 +10,14 @@ The full list of publications is available on <u><a href="{https://scholar.googl
 
 \* authors contributed equally; # co-corresponding authors
 
-##2023
+## 2023
 
 - Boran Gao, and Xiang Zhou. MESuSiE: Multi-ancestry fine-mapping for scalable and powerful discovery of shared and ancestry-specific putative causal variants in genome-wide association studies. Nature Genetics. in press.
 - Chang Xu, Santhi Ganesh, and Xiang Zhou (2023). mtPGS: Leverage multiple correlated traits for accurate polygenic score construction. American Journal of Human Genetics. 110: 1673-1689.
 - Lulu Shang, Wei Zhao, Yi Zhe Wang, Zheng Li, Jerome J. Choi, Minjung Kho, Thomas H. Mosley, Sharon L.R. Kardia, Jennifer A. Smith, and Xiang Zhou (2023). meQTL mapping in the GENOA study reveals genetic determinants of DNA methylation in African Americans. Nature Communications. 14: 2711.
 - Jiaqiang Zhu\*, Lulu Shang\*, and Xiang Zhou (2023). SRTsim: Spatial pattern preserving simulations for spatially resolved transcriptomics. Genome Biology. 24: 39.
 
-##2022
+## 2022
 
 - Lulu Shang, and Xiang Zhou (2022). Spatially aware dimension reduction for spatial transcriptomics. Nature Communications. 13: 7203.
 - Zheng Li, and Xiang Zhou (2022). BASS: Multi-scale and multi-sample analysis enables accurate cell type clustering and spatial domain detection in spatial transcriptomic studies. Genome Biology. 23: 168.
@@ -29,7 +29,7 @@ The full list of publications is available on <u><a href="{https://scholar.googl
 - Jialu Hu, Mengjie Chen, and Xiang Zhou (2022). Effective and scalable single-cell data alignment with non-linear canonical correlation analysis. Nucleic Acids Research. 50: e21.
 - Zhongshang Yuan, Lu Liu, Ping Guo, Ran Yan, Fuzhong Xue, and Xiang Zhou (2022). Likelihood based Mendelian randomization analysis with automated instrument selection and horizontal pleiotropic modeling. Science Advances. 8: eabl5744.
 
-##2021
+## 2021
 
 - Jiaqiang Zhu, Shiquan Sun, and Xiang Zhou (2021). SPARK-X: Non-parametric modeling enables scalable and robust detection of spatial expression patterns for large spatial transcriptomic studies. Genome Biology. 22: 184.
 - Lu Wang, Boran Gao, Yue Fan, Fuzhong Xue, and Xiang Zhou (2021). Mendelian randomization under the omnigenic architecture. Briefings in Bioinformatics. 22: bbab322.
@@ -41,3 +41,33 @@ The full list of publications is available on <u><a href="{https://scholar.googl
 - Huanhuan Zhu\*, Lulu Shang\*, and Xiang Zhou (2021). A review of the statistical methods for identifying trait-relevant tissues and cell types. Frontiers in Genetics. 11: 587887.
 - Yue Fan, Huanhuan Zhu, Yanyi Song, Qinke Peng, and Xiang Zhou (2021). Efficient and effective control of confounding in eQTL mapping studies through joint differential expression and Mendelian randomization analyses. Bioinformatics. 37: 296–302.
 - Boran Gao, Can Yang, Jin Liu, and Xiang Zhou (2021). Accurate genetic and environmental covariance estimation with composite likelihood in genome-wide association studies. PLOS Genetics. e1009293.
+
+## 2020
+
+- Zhongshang Yuan, Huanhuan Zhu, Ping Zeng, Sheng Yang, Shiquan Sun, Can Yang, Jin Liu, and Xiang Zhou (2020). Testing and controlling for horizontal pleiotropy with the probabilistic Mendelian randomization in transcriptome-wide association studies. Nature Communications. 11: 3861.
+- Tae Hyun Kim, Xiang Zhou#, and Mengjie Chen# (2020). Demystifying "drop-outs" in single-cell UMI data. Genome Biology. 21: 196.
+- Huanhuan Zhu, and Xiang Zhou (2020). Statistical methods for SNP heritability estimation and partition: A review. Computational and Structural Biotechnology Journal. 18: 1557-1568.
+- Sheng Yang, and Xiang Zhou (2020). Accurate and scalable construction of polygenic scores in large biobank data sets. American Journal of Human Genetics. 106: 679-693.
+- Lulu Shang, Jennifer A. Smith, and Xiang Zhou (2020). Leveraging gene co-expression patterns to infer trait-relevant tissues in genome-wide association studies. PLOS Genetics. 16: e1008734.
+- Lulu Shang*, Jennifer A. Smith*, Wei Zhao, Minjung Kho, Stephen T. Turner, Thomas H. Mosley, Sharon L.R. Kardia#, and Xiang Zhou# (2020). Genetic architecture of gene expression in European and African Americans: An eQTL mapping study in GENOA. American Journal of Human Genetics. 106: 496-512.
+- Ying Ma\*, Shiquan Sun\*, Xuequn Shang, Evan T. Keller, Mengjie Chen and Xiang Zhou (2020). Integrative differential expression and gene set enrichment analysis using summary statistics for scRNA-Seq studies. Nature Communications. 11: 1585.
+- Yanyi Song, Xiang Zhou#, Min Zhang, Wei Zhao, Yongmei Liu, Sharon Kardia, Ana Diez Roux, Belinda Needham, Jennifer A Smith and Bhramar Mukherjee# (2020). Bayesian shrinkage estimation of high dimensional causal mediation effects in omics studies. Biometrics. 76: 700-710.
+- Shiquan Sun\*, Jiaqiang Zhu\* and Xiang Zhou (2020). Statistical analysis of spatial expression pattern for spatially resolved transcriptomic studies. Nature Methods. 17: 193-200.
+
+## 2019
+
+- Shiquan Sun, Jiaqiang Zhu, Ying Ma and Xiang Zhou (2019). Accuracy, robustness and scalability of dimensionality reduction methods for single-cell RNA-seq analysis. Genome Biology. 20: 269. [pdf] [stext]
+- Yue Fan, Tauras P. Vilgalys, Shiquan Sun, Qinke Peng, Jenny Tung and Xiang Zhou (2019). IMAGE: High-powered detection of genetic effects on DNA methylation using integrated methylation QTL mapping and allele-specific analysis. Genome Biology. 20: 220. [pdf] [stext] [sfigure] [stable] [software]
+- Ping Zeng, Ting Wang, Junnian Zheng and Xiang Zhou (2019). Causal association of type 2 diabetes on amyotrophic lateral sclerosis: New evidence from Mendelian randomization using GWAS summary statistics. BMC Medicine. 17: 225.
+- Patricia M Schnepp, Mengjie Chen, Evan T Keller and Xiang Zhou (2019). SNV identification from single-cell RNA sequencing data. Human Molecular Genetics. 28: 3569–3583.
+- Ping Zeng, Xinghao Yu and Xiang Zhou (2019). Birth weight is not causally associated with adult asthma: results from instrumental variable analyses. Scientific Reports. 9:7647.
+- Ping Zeng and Xiang Zhou (2019). Causal association between birth weight and adult diseases: Evidence from a Mendelian randomization analysis. Frontier in Genetics. 10:618.
+- Ping Zeng and Xiang Zhou (2019). Causal effects of blood lipids on amyotrophic lateral sclerosis: A Mendelian randomization study. Human Molecular Genetics. 28: 688-697.
+- Shiquan Sun\*, Jiaqiang Zhu\*, Sahar Mozaffari, Carole Ober, Mengjie Chen and Xiang Zhou (2019). Heritability estimation and differential analysis of count data with generalized linear mixed models in genomic sequencing studies. Bioinformatics. 35: 487-496.
+
+## 2018
+
+- Mengjie Chen and Xiang Zhou (2018). VIPER: Variability-preserving imputation for accurate gene expression recovery in single cell RNA sequencing studies. Genome Biology. 19:196.
+- Ping Zeng, Xingjie Hao and Xiang Zhou (2018). Pleiotropic mapping and annotation selection in genome-wide association studies with penalized Gaussian mixture models. Bioinformatics. 34: 2797-2807. 
+- Lorin Crawford#, Kris C. Wood, Xiang Zhou# and Sayan Mukherjee# (2018). Bayesian approximate kernel regression with variable selection. Journal of the American Statistical Association. 113: 1710-1721.
+- Xingjie Hao, Ping Zeng, Shujun Zhang and Xiang Zhou (2018). Identifying and exploiting trait-relevant tissues with multiple functional annotations in genome-wide association studies. PLOS Genetics. e1007186.
