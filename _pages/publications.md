@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-The full list of publications is available on <u><a href="{https://scholar.google.com/citations?user=h4_CmPoAAAAJ&hl=en}">my Google Scholar profile</a>.</u>
+The full list of publications is available on <u><a href="https://scholar.google.com/citations?user=h4_CmPoAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 \* authors contributed equally; # co-corresponding authors
 
