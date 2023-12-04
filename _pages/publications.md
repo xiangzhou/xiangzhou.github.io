@@ -56,8 +56,8 @@ The full list of publications is available on <u><a href="{https://scholar.googl
 
 ## 2019
 
-- Shiquan Sun, Jiaqiang Zhu, Ying Ma and Xiang Zhou (2019). Accuracy, robustness and scalability of dimensionality reduction methods for single-cell RNA-seq analysis. Genome Biology. 20: 269. [pdf] [stext]
-- Yue Fan, Tauras P. Vilgalys, Shiquan Sun, Qinke Peng, Jenny Tung and Xiang Zhou (2019). IMAGE: High-powered detection of genetic effects on DNA methylation using integrated methylation QTL mapping and allele-specific analysis. Genome Biology. 20: 220. [pdf] [stext] [sfigure] [stable] [software]
+- Shiquan Sun, Jiaqiang Zhu, Ying Ma and Xiang Zhou (2019). Accuracy, robustness and scalability of dimensionality reduction methods for single-cell RNA-seq analysis. Genome Biology. 20: 269. 
+- Yue Fan, Tauras P. Vilgalys, Shiquan Sun, Qinke Peng, Jenny Tung and Xiang Zhou (2019). IMAGE: High-powered detection of genetic effects on DNA methylation using integrated methylation QTL mapping and allele-specific analysis. Genome Biology. 20: 220.
 - Ping Zeng, Ting Wang, Junnian Zheng and Xiang Zhou (2019). Causal association of type 2 diabetes on amyotrophic lateral sclerosis: New evidence from Mendelian randomization using GWAS summary statistics. BMC Medicine. 17: 225.
 - Patricia M Schnepp, Mengjie Chen, Evan T Keller and Xiang Zhou (2019). SNV identification from single-cell RNA sequencing data. Human Molecular Genetics. 28: 3569–3583.
 - Ping Zeng, Xinghao Yu and Xiang Zhou (2019). Birth weight is not causally associated with adult asthma: results from instrumental variable analyses. Scientific Reports. 9:7647.
@@ -89,3 +89,22 @@ The full list of publications is available on <u><a href="{https://scholar.googl
 
 - Amanda J. Lea, Jenny Tung# and Xiang Zhou# (2015). A flexible, efficient binomial mixed model for identifying differential DNA methylation in bisulfite sequencing data. PLOS Genetics. 11: e1005650.
 - Jenny Tung\*, Xiang Zhou\*, Susan C Alberts, Matthew Stephens and Yoav Gilad (2015). The genetic architecture of gene expression levels in wild baboons. eLife. 4: e04729.
+
+## 2014
+
+- Xiang Zhou\*, Carolyn Cain\*, Marsha Myrthil, Noah Lewellen, Katelyn Michelini, Emily Davenport, Matthew Stephens, Jonathan Pritchard and Yoav Gilad (2014). Epigenetic modifications are associated with inter-species gene expression variation in primates. Genome Biology. 15(12): 547. 
+- Xiang Zhou# and Matthew Stephens# (2014). Efficient multivariate linear mixed model algorithms for genome-wide association studies. Nature Methods. 11(4): 407–409. 
+
+## 2010-2013
+
+- Xiang Zhou#, Peter Carbonetto and Matthew Stephens# (2013). Polygenic modeling with Bayesian sparse linear mixed models. PLOS Genetics. 9(2): e1003264.
+- Xiang Zhou# and Matthew Stephens# (2012). Genome-wide efficient mixed-model analysis for association studies. Nature Genetics. 44: 821–824.
+- Xiang Zhou, Jun Takatoh, Fan Wang (2011). The mammalian class 3 PI3K (PIK3C3) is required for early embryogenesis and cell proliferation. PLOS One. 6(1): e16358.
+
+## 2003 - 2010
+
+- Xiang Zhou, Jerome Reiter (2010). A note on Bayesian inference after multiple imputation. The American Statistician. 64(2): 159-163. 
+- Xiang Zhou, Fan Wang (2010). Effects of neuronal PIK3C3/Vps34 deletion on autophagy and beyond. Autophagy. 6(6): 798-799. 
+- Xiang Zhou, Liangli Wang, Hiroshi Hasegawa, Priyanka Amin, Bao-Xia Han, Shinjiro Kaneko, Youwen He, Fan Wang (2010). Deletion of PIK3C3/Vps34 in sensory neurons causes rapid neurodegeneration by disrupting the endosomal but not the autophagic pathway. Proc Natl Acad Sci U.S.A. 107(20): 9424-9429.
+- Xiang Zhou\*, J. Ramesh Babu\*, Susana da Silva\*, Qing Shu, Isabella A. Graef, Tim Oliver, Toshifumi Tomoda, Tomomi Tani, Marie W. Wooten, and Fan Wang (2007). Unc-51-like kinase 1/2-mediated endocytic processes regulate filopodia extension and branching of sensory axons. Proc Natl Acad Sci U.S.A. 104(14): 5842-5847.
+- Xiang Zhou, Jin-Ju Li, Long-Chuan Yu (2003). Plastic changes of calcitonin gene-related peptide in morphine tolerance: a behavioral and immunohistochemical study in rats. Journal of Neuroscience Research. 74: 622-629. 
