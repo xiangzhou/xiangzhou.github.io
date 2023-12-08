@@ -13,7 +13,7 @@ name                     : &name "Xiang Zhou"
 description              : &description "Professor of Biostatistics"
 url                      : "https://xiangzhou.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xzlab.github.io"
+repository               : "https://github.com/xiangzhou/xiangzhou.github.io"
 github                   : [metadata] # Fixes warning about GitHub metadata
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -86,7 +86,7 @@ author:
   bio              : "Professor of Biostatistics"
   location         : "Ann Arbor"
   employer         : "University of Michigan"
-  profile          : "<a href="https://sph.umich.edu/faculty-profiles/zhou-xiang.html">Faculty Profile</a>"
+#  profile          : "<a href="https://sph.umich.edu/faculty-profiles/zhou-xiang.html">Faculty Profile</a>"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=(Xiang+Zhou)+AND+(Michigan+OR+Chicago+OR+Duke)"
   googlescholar    : "https://scholar.google.com/citations?user=h4_CmPoAAAAJ&hl=en"
   email            : 
