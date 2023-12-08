@@ -10,7 +10,7 @@ author_profile: true
 
 BASS is a method for multi-scale and multi-sample analysis in spatial transcriptomics. BASS performs multi-scale transcriptomic analyses in the form of joint cell type clustering and spatial domain detection, with the two analytic tasks carried out simultaneously within a Bayesian hierarchical modeling framework. For both analyses, BASS properly accounts for the spatial correlation structure and seamlessly integrates gene expression information with spatial localization information to improve their performance. In addition, BASS is capable of multi-sample analysis that jointly models multiple tissue sections/samples, facilitating the integration of spatial transcriptomic data across tissue samples.
 
-* The package is currently available on <a href="https://github.com/zhengli09/BASS">github</a>
+* The package is currently available on <a href="https://github.com/zhengli09/BASS">github</a>.
 * Citation: Zheng Li, and Xiang Zhou (2022). Multi-scale and multi-sample analysis enables accurate cell type clustering and spatial domain detection in spatial transcriptomic studies. Genome Biology. 23: 168.
 * Contact <a href="mailto:zlisph@umich.edu">Zheng Li</a> with any questions, comments, or bugs reports.
 
