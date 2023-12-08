@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * Ph.D in Neurobiology, Duke University, 2010
 * M.S. in Statistics, Duke University, 2009
 * B.S. in Biology, Peking University, 2004
 
-Academic experience
-======
+## Academic experience
+
 * Professor, Department of Biostatistics, University of Michigan, 09/2023 - Present
 * Assistant Director for the Data, Analytics and IT workgroup, Precision Health, University of Michigan, 07/2021 - Present.
 * Associate Professor, Department of Biostatistics, University of Michigan, 09/2019 - 08/2023
