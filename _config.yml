@@ -11,7 +11,7 @@ title                    : "Xiang Zhou Lab Website"
 title_separator          : "-"
 name                     : &name "Xiang Zhou"
 description              : &description "Professor of Biostatistics"
-url                      : https://xiangzhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://xiangzhou.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xzlab.github.io"
 github                   : [metadata] # Fixes warning about GitHub metadata
@@ -85,10 +85,10 @@ author:
   avatar           : "Xiang2022.png"
   bio              : "Professor of Biostatistics"
   location         : "Ann Arbor"
-  employer         : "University of Michigan"
+  employer         : "<a href="https://sph.umich.edu/faculty-profiles/zhou-xiang.html">University of Michigan</a>"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=(Xiang+Zhou)+AND+(Michigan+OR+Chicago+OR+Duke)"
   googlescholar    : "https://scholar.google.com/citations?user=h4_CmPoAAAAJ&hl=en"
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,14 +103,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xiang-zhou-b740b229"
   orcid            : "https://orcid.org/0000-0002-4331-7599"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/xzlab_org"
+  twitter          : "https://twitter.com/xiangzhoulab"
   vine             :
   weibo            :
   xing             :
