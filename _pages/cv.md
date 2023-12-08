@@ -28,8 +28,8 @@ redirect_from:
   
 ## Contact Information
 
-4166 SPH II
-Department of Biostatistics
-University of Michigan
-1415 Washington Heights
+4166 SPH II\
+Department of Biostatistics\
+University of Michigan\
+1415 Washington Heights\
 Ann Arbor, MI 48109
