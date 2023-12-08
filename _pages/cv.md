@@ -11,49 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Neurobiology, Duke University, 2010
+* M.S. in Statistics, Duke University, 2009
+* B.S. in Biology, Peking University, 2004
 
-Work experience
+Academic experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Professor, Department of Biostatistics, University of Michigan, 09/2023 - Present
+* Assistant Director for the Data, Analytics and IT workgroup, Precision Health, University of Michigan,
+07/2021 - Present.
+* Associate Professor, Department of Biostatistics, University of Michigan, 09/2019 - 08/2023
+* John G. Searle Assistant Professor, Department of Biostatistics, University of Michigan, 09/2018 -
+08/2019
+* Assistant Professor, Department of Biostatistics, University of Michigan, 09/2014 - 08/2018
+* Visiting Assistant Professor, Department of Biostatistics, University of Michigan, 07/2014 - 09/2014
+* William H. Kruskal Instructor, Department of Statistics, University of Chicago, 09/2013 - 06/2014
+* Postdoctoral Scholar (adviser: Dr. Matthew Stephens), Department of Human Genetics, University
+of Chicago, 10/2010 - 09/2013
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
