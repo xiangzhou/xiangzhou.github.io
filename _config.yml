@@ -182,13 +182,16 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  courses:
+  teaching:
     output: true
     permalink: /:collection/:path/
   software:
     output: true
     permalink: /:collection/:path/
   resources:
+    output: true
+    permalink: /:collection/:path/
+  cv:
     output: true
     permalink: /:collection/:path/
 
@@ -231,10 +234,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _courses
+  # _teaching
   - scope:
       path: ""
-      type: courses
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -253,6 +256,15 @@ defaults:
   - scope:
       path: ""
       type: resources
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _cv
+  - scope:
+      path: ""
+      type: cv
     values:
       layout: single
       author_profile: true
