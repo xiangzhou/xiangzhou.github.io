@@ -85,7 +85,8 @@ author:
   avatar           : "Xiang2022.png"
   bio              : "Professor of Biostatistics"
   location         : "Ann Arbor"
-  employer         : "<a href="https://sph.umich.edu/faculty-profiles/zhou-xiang.html">University of Michigan</a>"
+  employer         : "University of Michigan"
+  profile          : "<a href="https://sph.umich.edu/faculty-profiles/zhou-xiang.html">Faculty Profile</a>"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=(Xiang+Zhou)+AND+(Michigan+OR+Chicago+OR+Duke)"
   googlescholar    : "https://scholar.google.com/citations?user=h4_CmPoAAAAJ&hl=en"
   email            : 
