@@ -18,14 +18,11 @@ Education
 Academic experience
 ======
 * Professor, Department of Biostatistics, University of Michigan, 09/2023 - Present
-* Assistant Director for the Data, Analytics and IT workgroup, Precision Health, University of Michigan,
-07/2021 - Present.
+* Assistant Director for the Data, Analytics and IT workgroup, Precision Health, University of Michigan, 07/2021 - Present.
 * Associate Professor, Department of Biostatistics, University of Michigan, 09/2019 - 08/2023
-* John G. Searle Assistant Professor, Department of Biostatistics, University of Michigan, 09/2018 -
-08/2019
+* John G. Searle Assistant Professor, Department of Biostatistics, University of Michigan, 09/2018 - 08/2019
 * Assistant Professor, Department of Biostatistics, University of Michigan, 09/2014 - 08/2018
 * Visiting Assistant Professor, Department of Biostatistics, University of Michigan, 07/2014 - 09/2014
 * William H. Kruskal Instructor, Department of Statistics, University of Chicago, 09/2013 - 06/2014
-* Postdoctoral Scholar (adviser: Dr. Matthew Stephens), Department of Human Genetics, University
-of Chicago, 10/2010 - 09/2013
+* Postdoctoral Scholar, Department of Human Genetics, University of Chicago, 10/2010 - 09/2013
   
