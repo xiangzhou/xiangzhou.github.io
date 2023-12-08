@@ -15,7 +15,7 @@ redirect_from:
 * M.S. in Statistics, Duke University, 2009
 * B.S. in Biology, Peking University, 2004
 
-## Academic experience
+## Academic Experience
 
 * Professor, Department of Biostatistics, University of Michigan, 09/2023 - Present
 * Assistant Director for the Data, Analytics and IT workgroup, Precision Health, University of Michigan, 07/2021 - Present.
@@ -26,3 +26,10 @@ redirect_from:
 * William H. Kruskal Instructor, Department of Statistics, University of Chicago, 09/2013 - 06/2014
 * Postdoctoral Scholar, Department of Human Genetics, University of Chicago, 10/2010 - 09/2013
   
+## Contact Information
+
+4166 SPH II
+Department of Biostatistics
+University of Michigan
+1415 Washington Heights
+Ann Arbor, MI 48109
