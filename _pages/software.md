@@ -72,3 +72,27 @@ GECKO is a computational method for estimating both genetic and environmental co
 * Citation: Boran Gao, Can Yang, Jin Liu, and Xiang Zhou (2021). Accurate genetic and environmental covariance estimation with composite likelihood in genome-wide association studies. PLOS Genetics. e1009293.
 * Contact <a href="mailto:borang@umich.edu">Boran Gao</a> with any questions, comments, or bugs reports.
 
+
+## Genome-wide Efficient Mixed Model Association (GEMMA: LMM, BSLMM, and mvLMM)
+
+GEMMA is the software implementing the Genome-wide Efficient Mixed Model Association algorithm for a standard linear mixed model and some of its close relatives for genome-wide association studies (GWAS):
+
+* It fits a univariate linear mixed model (LMM) for marker association tests with a single phenotype to account for population stratification and sample structure, and for estimating the proportion of variance in phenotypes explained (PVE) by typed genotypes (i.e. "chip heritability").
+* It fits a multivariate linear mixed model (mvLMM) for testing marker associations with multiple phenotypes simultaneously while controlling for population stratification, and for estimating genetic correlations among complex phenotypes.
+* It fits a Bayesian sparse linear mixed model (BSLMM) using Markov chain Monte Carlo (MCMC) for estimating PVE by typed genotypes, predicting phenotypes, and identifying associated markers by jointly modeling all markers while controlling for population structure.
+* It estimates variance component/SNP heritability, and partitions it by different SNP functional categories. In particular, it uses HE regression or REML AI algorithm to estimate variance components when individual-level data are available. It uses MQS to estimate variance components when only summary statisics are available. 
+
+It is computationally efficient for large scale GWAS and uses freely available open-source numerical libraries.
+
+* The software is currently available on <a href="https://github.com/genetics-statistics/GEMMA">github</a>, with a <a href="software/GEMMAmanual.pdf">User Manual</a> (last edited on 05/18/2016) and a draft updated <a href="software/demo.txt">demo.txt</a> for variance component estimation.
+* An old executable version: <a href="software/gemma-0.94.tar.gz">version 0.94</a> (compiled on 01/12/2014).
+* Citations:
+  * Software tool and univariate linear mixed model: Xiang Zhou and Matthew Stephens (2012). Genome-wide efficient mixed-model analysis for association studies. Nature Genetics. 44: 821–824.
+  * Multivariate linear mixed model: Xiang Zhou and Matthew Stephens (2014). Efficient multivariate linear mixed model algorithms for genome-wide association studies. Nature Methods. 11(4): 407–409.
+  * Bayesian sparse linear mixed model: Xiang Zhou, Peter Carbonetto and Matthew Stephens (2013). Polygenic modeling with Bayesian sparse linear mixed
+models. PLoS Genetics. 9(2): e1003264.
+  * Variance component estimation: Xiang Zhou (2017). A unified framework for
+variance component estimation with summary statistics in genome-wide
+association studies. Annals of Applied Statistics. 11(4): 2027-2051.
+* Click <a href="https://github.com/genetics-statistics/GEMMA/issues">here</a> if you have any questions, comments, or bugs reports.
+
