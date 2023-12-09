@@ -161,4 +161,19 @@ MACAU is the software implementing the Mixed model Association for Count data vi
 * Contact <a href="mailto:sqsunsph@xjtu.edu.cn">Shiquan Sun</a> with any questions, comments, or bugs reports.
 
 
+## MArginal ePIstasis Test (MAPIT)
 
+MAPIT is the software implementing the new strategy for mapping epistasis: instead of directly identifying individual pairwise or higher-order interactions, MAPIT focuses on mapping variants that have non-zero <i>marginal epistatic effects</i> --- the combined pairwise interaction effects between a given variant and all other variants. By testing marginal epistatic effects, MAPIT can identify candidate variants that are involved in epistasis without the need to identify the exact partners with which the variants interact, thus potentially alleviating much of the statistical and computational burden associated with standard epistatic mapping procedures. MAPIT is based on a variance component model, and relies on a recently developed variance component estimation method for efficient parameter inference and p-value computation.
+
+* The software is currently available on <a href="https://github.com/lorinanthony/MAPIT">github</a>.
+* Citation: Lorin Crawford, Ping Zeng, Sayan Mukherjee, and Xiang Zhou (2017). Detecting epistasis with the marginal epistasis test in genetic mapping studies of quantitative traits. PLOS Genetics. e1006869.
+* Contact <a href="mailto:lorin_crawford@brown.edu">Lorin Crawford</a> with any questions, comments, or bugs reports.
+
+
+## Multi-ancestry Sum of the Single Effects Model (MESuSiE)
+
+MESuSiE is a method for multi-ancestry fine-mapping analysis in genome-wide association studies. MESuSiE explicitly models both shared and ancestry-specific causal variants across ancestries, properly accounts for the diverse LD pattern observed in different ancestries, relies on GWAS marginal summary statistics as input, and extends the recent scalable variational inference algorithm SuSiE, which was developed for ancestry-specific fine-mapping, towards scalable multi-ancestry fine-mapping.
+
+* The software is currently available on <a href="https://github.com/borangao/MESuSiE">github</a>.
+* Citation: Boran Gao, and Xiang Zhou (2022). MESuSiE: Multi-ancestry fine-mapping for scalable and powerful discovery of shared and ancestry-specific putative causal variants in genome-wide association studies. Nature Genetics. in press.
+* Contact <a href="mailto:borang@umich.edu">Boran Gao</a> with any questions, comments, or bugs reports.
