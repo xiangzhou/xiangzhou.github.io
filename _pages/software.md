@@ -136,5 +136,15 @@ iMAP performs integrative mapping of pleiotropic association and functional anno
 * Contact <a href="mailto:zpstat@xzhmu.edu.cn">Ping Zeng</a> with any questions, comments, or bugs reports.
 
 
+## Integrative and Reference-Informed tissue Segmentation (IRIS)
+
+IRIS (Integrative and Reference-Informed tissue Segmentation) is a method for spatial domain detection in spatially resolved transcriptomics (SRT). IRIS models multiple tissue slices jointly and segments each tissue slice into multiple spatial domains. IRIS also accounts for the spatial correlation structure commonly observed across locations on each tissue slice and explicitly models the similarity in cell type composition underling similar spatial domains across tissue slices. A unique feature of IRIS is its ability to incorporate a scRNA-seq data to serve as the reference for domain detection, which allows IRIS to seamlessly integrate the cell type specific transcriptomic profiles from the scRNA-seq reference to the SRT dataset to substantially improve the accuracy in spatial domain detection. As a result, IRIS is accurate, scalable, and robust for spatial domain detection across a range of SRT technologies with distinct spatial resolutions.
+
+* The software is currently available on <a href="https://github.com/YingMa0107/IRIS/">github</a>, with a tutorial available <a href="https://yingma0107.github.io/IRIS/">here</a>.
+* Citation: Ying Ma, and Xiang Zhou (2023). Integrative and reference-informed spatial domain detection for spatial transcriptomics.
+* Contact <a href="mailto:ying_ma@brown.edu">Ying Ma</a> with any questions, comments, or bugs reports.
+
+
+## 
 
     
