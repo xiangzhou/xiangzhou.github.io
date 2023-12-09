@@ -30,3 +30,14 @@ All analysis code and scripts used in the paper are available on <a href="https:
 Citation: Lulu Shang, Wei Zhao, Yi Zhe Wang, Zheng Li, Jerome Choi, Minjung Kho, Thomas H. Mosley, Sharon L.R. Kardia, Jennifer A. Smith#, Xiang Zhou# (2022). Genetic determinants of DNA methylation in African Americans: An meQTL mapping study in GENOA. 
 
 Contact <a href="mailto:shanglu@umich.edu">Lulu Shang</a> with any questions and comments.
+
+
+## Comparison of dimensionality reduction methods for single cell RNAseq analysis
+
+In this study, we compared 11 different Dimensionality reduction (DR) methods on 28 publicly available scRNAseq data sets that cover a range of sequencing techniques and sample sizes. The performance of different DR methods are evaluated in terms of their accuracy and robustness in both cell clustering and lineage reconstruction downstream analyses.
+
+All data, analysis code and scripts used in the paper are available on <a href="https://github.com/xzhoulab/DRComparison">github</a>.
+
+Citation: Shiquan Sun, Jiaqiang Zhu, Ying Ma and Xiang Zhou (2019). Accuracy, robustness and scalability of dimensionality reduction methods for single-cell RNA-seq analysis. Genome Biology. 20: 269.
+
+Contact <a href="mailto:sqsunsph@xjtu.edu.cn">Shiquan Sun</a> with any questions and comments.
