@@ -272,3 +272,40 @@ SPARK and SPARK-X are methods for detecting genes with spatial expression patter
   * Jiaqiang Zhu, Shiquan Sun, and Xiang Zhou (2021). Non-parametric modeling enables scalable and robust detection of spatial expression patterns for large spatial transcriptomic studies. Genome Biology. 22: 184.
 * Contact <a href="mailto:jiaqiang@umich.edu">Jiaqiang Zhu</a> or <a href="mailto:sqsunsph@xjtu.edu.cn">Shiquan Sun</a> with any questions, comments, or bugs reports.
 
+
+## Spatially Resolved Transcriptomics simulator (SRTsim)
+
+SRTsim is a software simulator for generating synthetic spatially resolved transcriptomic (SRT) data based on a wide variety of SRT techniques. SRTsim incorporates spatial localization information to simulate SRT expression count data in a reproducible and scalable fashion, thus facilitating SRT experimental design and methodology development. A key benefit of SRTsim is its ability to not only maintain various location-wise and gene-wise SRT count properties but also preserve the spatial expression patterns of the SRT data on the tissue, thus making it feasible to evaluate SRT method performance for various SRT-specific analytic tasks using the synthetic data.
+
+* The software is currently available on <a href="https://xzhoulab.github.io/SRTsim/">github</a>.
+* Citation: Jiaqiang Zhu*, Lulu Shang*, and Xiang Zhou (2022). SRTsim: spatial pattern preserving simulations for spatially resolved transcriptomics.
+* Contact <a href="mailto:jiaqiang@umich.edu">Jiaqiang Zhu</a> or <a href="mailto:shanglu@umich.edu">Lulu Shang</a> with any questions, comments, or bugs reports.
+
+
+## Variational Inference based Probabilistic Canonical Correlation Analysis (VIPCCA)
+
+VIPCCA is a software that relies based on a non-linear probabilistic canonical correlation analysis, for effective and scalable single cell data alignment. VIPCCA leverages cutting-edge techniques from deep neural network for non-linear modeling of single cell data, thus allowing users to capture the complex biological structures from integration of multiple single-cell datasets across technologies, data types, conditions, and modalities. In addition, VIPCCA relies on variational inference for scalable computation, enabling efficient integration of large-scale single cell datasets with millions of cells. Importantly, VIPCCA can transform multi-modalities into lower dimensional space without any post-hoc data processing, a unique and desirable feature that is in direct contrast to existing alignment methods.
+
+* The software is currently available on <a href="https://github.com/jhu99/vipcca">github</a>.
+* All analysis scripts used in the paper are available <a href="https://github.com/jhu99/vipcca_paper">here</a>. </p>
+* Citation: Jialu Hu, Mengjie Chen, and Xiang Zhou (2022). Effective and scalable single-cell data alignment with non-linear canonical correlation analysis. Nucleic Acids Research. 50: e21. 
+* Contact <a href="mailto:hujialu.xd@gmail.com">Jialu Hu</a> with any questions, comments, or bugs reports.
+
+
+## Variability preserving ImPutation for Expression Recovery (VIPER)
+
+VIPER is a method that performs Variability Preserving ImPutation for Expression Recovery in single cell RNA sequencing studies. VIPER is based on nonnegative sparse regression models and is capable of progressively inferring a sparse set of local neighborhood cells that are most predictive of the expression levels of the cell of interest for imputation. A key feature of VIPER is its ability to preserve gene expression variability across cells after imputation.
+
+* The package is currently available on <a href="https://github.com/ChenMengjie/VIPER">github</a>.
+* All analysis scripts used in the paper is available <a href="https://github.com/ChenMengjie/Vpaper2018">here</a>.
+* Citation: Mengjie Chen and Xiang Zhou (2018). VIPER: variability-preserving imputation foraccurate gene expression recovery insingle-cell RNA sequencing studies. Genome Biology. 19:196.
+* Contact <a href="mailto:mengjiechen@uchicago.edu"> Mengjie Chen </a> with any questions, comments, or bugs reports.
+
+
+## Paternity Inference from Low-Coverage Sequencing Data (WHODAD)
+
+WHODAD is a software package implementing the WHODAD method for paternity inference from low-coverage sequencing data.
+
+* Software <a href="whodad.tar">version 1.00alpha</a> (compiled on 10/16/2015), with a <a href="WHODADmanual.pdf">User Manual</a> (last edited on 10/20/2015).
+* Citation: Noah Snyder-Mackler, William H Majoros, Michael L Yuan, Amanda O Shaver, Jacob B Gordon, Gisela H Kopp, Stephen A Schlebusch, Jeffrey D Wall, Susan C Alberts, Sayan Mukherjee, Xiang Zhou, and Jenny Tung (2016). Efficient genome-wide sequencing and low-coverage pedigree analysis from non-invasively collected
+samples. Genetics. 203: 699-714.
