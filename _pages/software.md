@@ -248,3 +248,27 @@ SMART is a software implementing the Scalable Multiple Annotation integration fo
 * Manual: Use install.packages() command to install the package. Use ?SMART or ?LDSM or ?EMmix to see the description of these functions and some simple scripts to run the data example. A detailed manual will appear soon.
 * Citation: Xingjie Hao, Ping Zeng, Shujun Zhang and Xiang Zhou (2018). Identifying and exploiting trait-relevant tissues with multiple functional annotations in genome-wide association studies. PLOS Genetics. e1007186.
 * Contact <a href="mailto:xingjiegenetics@qq.com">Xingjie Hao</a> with any questions, comments, or bugs reports.
+
+
+## Spatiall aware probabilistic Principal Component Analysis (SpatialPCA)
+
+SpatialPCA is the software that perform spatially aware dimension reduction for spatial transcriptomics. SpatialPCA explicitly models the spatial correlation structure across tissue locations to preserve the neighboring similarity of the original data in the low dimensional manifold. The low dimensional components obtained from SpatialPCA thus contain valuable spatial correlation information and can be directly paired with existing computational tools developed in scRNA-seq for effective and novel downstream analysis in spatial transcriptomics. In particular, the low-dimensional components from SpatialPCA can be paired with scRNA-seq clustering methods to enable effective de novo tissue domain detection and can be paired with scRNA-seq trajectory inference methods to enable effective developmental trajectory inference on the tissue. Because of the data generative nature of SpatialPCA and its explicit modeling of spatial correlation, it can also be used to impute the low dimensional components on new and unmeasured spatial locations, facilitating the construction of a refined spatial map with a resolution much higher than that measured in the original study.
+
+* The software is currently available on <a href="https://github.com/shangll123/SpatialPCA">github</a>, with a tutorial available <a href="http://lulushang.org/SpatialPCA_Tutorial">here</a>.
+* All scripts for reproducing the results presented in the paper is available
+  <a href="http://lulushang.org/docs/Projects/SpatialPCA">here</a>.
+* Citation: Lulu Shang, and Xiang Zhou (2022). Spatially aware dimension reduction for spatial transcriptomics. Nature Communications. 13: 7203.
+* Contact <a href="mailto:shanglu@umich.edu">Lulu Shang</a> with any questions, comments, or bugs reports.
+
+
+## Spatial PAttern Recognition via Kernels (SPARK and SPARK-X)
+
+SPARK and SPARK-X are methods for detecting genes with spatial expression patterns in spatially resolved transcriptomic studies. SPARK directly models count data generated from various spatial resolved transcriptomic techniques through generalized spatial linear models. While SPARK-X relies on a scalable non-parametric testing framework to model a wide variety of spatial transcriptomics data collected through different technologies. Both SPARK and SPARK-X rely on algebraic innovations for scalable computatation as well as newly developed statistical formulas for hypothesis testing, producing well-calibrated p-values and yielding high statistical power. Both SPARK and SPARK-X are implemented in the SPARK software.
+
+* The software is currently available on <a href="https://xzhoulab.github.io/SPARK/">github</a>.
+* All analysis scripts used in the two papers are available <a href="https://xzhoulab.github.io/SPARK/03_experiments/">here</a>.
+* Citations:
+  * Shiquan Sun\*, Jiaqiang Zhu\*, and Xiang Zhou (2020). Statistical analysis of spatial expression pattern for spatially resolved transcriptomic studies. Nature Methods. 17: 193-200. 
+  * Jiaqiang Zhu, Shiquan Sun, and Xiang Zhou (2021). Non-parametric modeling enables scalable and robust detection of spatial expression patterns for large spatial transcriptomic studies. Genome Biology. 22: 184.
+* Contact <a href="mailto:jiaqiang@umich.edu">Jiaqiang Zhu</a> or <a href="mailto:sqsunsph@xjtu.edu.cn">Shiquan Sun</a> with any questions, comments, or bugs reports.
+
