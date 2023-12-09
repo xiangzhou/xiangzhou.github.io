@@ -6,40 +6,23 @@ author_profile: true
 ---
 
 
-## Current Members
+## eQTL mapping results on 1,032 African Americans and 801 European Americans in GENOA
 
-* Xiang Zhou, Professor in the Department of Biostatistics at the University of Michigan. Before joining UM, he was a William H. Kruskal Instructor in the Department of Statistics at the University of Chicago. He received his postdoc training in Matthew Stephens lab in the Department of Human Genetics and Department of Statistics at the University of Chicago, where he also worked closely with people in Yoav Gilad lab. He obtained his MS and PhD degrees at Duke University, where his was advised by Fan Wang and Scott Schmidler, and worked closely with Jerry Reiter. He was trained as both a statistician and a biologist.
-* Kalins Banerjee, Postdoc (09/2021 - Present).
-* Jade Wang, Postdoc (03/2022 - Present).
-* Chao Ning, Postdoc (03/2023 - Present).
-* Wenjing Ma, Postdoc (07/2023 - Present).
-* Lu Liu, Postdoc (07/2023 - Present).
-* Siyu Hou, Postdoc (08/2023 - Present).
-* Boran Gao, PhD Student of Biostatistics (05/2017 - Present), admitted to the PhD program in 2017.
-* Chang Xu, PhD Student of Biostatistics (04/2019 - Present), admitted to the PhD program in 2019.
-* Peijun Wu, PhD Student of Biostatistics (05/2019 - Present), admitted to the PhD program in 2020.
-* Zheng Li, PhD Student of Biostatistics (07/2019 - Present), admitted to the PhD program in 2020.
-* Peiyao Zhao, PhD Student of Biostatistics (10/2020 - Present), admitted to the PhD program in 2021.
-* Yanlin Tong, PhD Student of Biostatistics (05/2022 - Present), admitted to the PhD program in 2023.
-* Robert Langefeld, MS Student of Biostatistics (09/2022 - Present), Genome Science Training Program (GSTP), admitted to the MS program in 2022.
+The cis-eQTL mapping summary statistics for <a href="AA_summary_statistics.txt.gz">African American</a> and <a href="EA_summary_statistics.txt.gz">European American</a>. Description of the file format is available <a href="GENOA_eQTL_README.txt">here</a>.
 
-## Alumni
+All analysis code and scripts used in the paper are available on <a href="https://github.com/shangll123/GENOA_eQTL">github</a>.
 
-* Fred Boehm, Postdoc (06/2021-05/2023), now a Postdoc at University of Michigan working on joint projects.
-* Yue Fan, Visiting PhD Student (11/2017-11/2019), now an Assistant Professor at Xi'an Jiaotong University.
-* Qidi Feng, Postdoc (06/2018-05/2020), now a Postdoc at Harvard University.
-* Xingjie Hao, Visiting PhD Student (02/2016-01/2018), now an Associate Professor at Huazhong University of Science and Technology.
-* Christopher Lee, PhD Student (09/2017 - 01/2020), admitted in 2015, co-advised with Prof. Maureen Sartor, now a Bioinformatics Scientist at NIA.
-* Ying Ma, PhD Student (09/2017 - 07/2023), admitted in 2018, now an Assistant Professor at Brown University.
-* Lulu Shang, PhD Student (05/2017 - 08/2023), admitted in 2018, now an Assistant Professor at MD Anderson.
-* Yanyi Song, PhD Student (09/2016 - 09/2020), admitted in 2016, co-advised with Prof. Bhramar Mukherjee, now a Data Scientist at Facebook.
-* Shiquan Sun, Visiting PhD Student (09/2015-01/2017) and Postdoc (11/2017-12/2019), now a Professor at Xi'an Jiaotong University.
-* Lu Wang, Visiting PhD Student (08/2018-09/2019), now finishing up PhD at Shandong University.
-* Julong Wei, Postdoc (11/2018 - 06/2019). now a Postdoc at Wayne State University working on joint projects.
-* Sheng Yang, Postdoc (02/2018 - 02/2020). now an Associate Professor at Nanjing Medical University.
-* Hengshi Yu, PhD Student (03/2020 - 06/2022), admitted in 2017, co-advised with Prof. Joshua Welch, now a Data Scientist at Google.
-* Zhongshang Yuan, Postdoc (10/2017-12/2019), now a Professor at Shandong University.
-* Ping Zeng, Postdoc (10/2015-09/2017), now an Associate Professor at Xuzhou Medical University.
-* Jin Zhang, Visiting Scholar (04/2018-04/2019), now an Associate Professor at Nanjing Agricultural University.
-* Huanhuan Zhu, Postdoc (07/2018 - 09/2020), now an Associate Research Fellow in the Precision Health Research Institute at BGI.
-* Jiaqiang Zhu, PhD Student (05/2016 - 06/2022), admitted in 2017, now a Senior Biostatistician at Vertex Pharmaceuticals.
+Citation: Lulu Shang\*, Jennifer A. Smith\*, Wei Zhao, Minjung Kho, Stephen T. Turner, Thomas H. Mosley, Sharon L.R. Kardia#, Xiang Zhou# (2020). Genetic architecture of gene expression in European and African Americans: An eQTL mapping study in GENOA. American Journal of Human Genetics. 106: 496-512.
+
+Contact <a href="mailto:shanglu@umich.edu">Lulu Shang</a> with any questions and comments.
+
+
+## meQTL mapping results on 961 African Americans in GENOA
+
+The cis-meQTL mapping summary statistics for <a href="GENOA_meQTL_summary_stat_allchr.zip">African Americans</a>. Description of the file format is available <a href="GENOA_meQTL_README.txt">here</a>
+
+All analysis code and scripts used in the paper are available on <a href="https://github.com/shangll123/GENOA_meQTL">github</a>.
+
+Citation: Lulu Shang, Wei Zhao, Yi Zhe Wang, Zheng Li, Jerome Choi, Minjung Kho, Thomas H. Mosley, Sharon L.R. Kardia, Jennifer A. Smith#, Xiang Zhou# (2022). Genetic determinants of DNA methylation in African Americans: An meQTL mapping study in GENOA. 
+
+Contact <a href="mailto:shanglu@umich.edu">Lulu Shang</a> with any questions and comments.
