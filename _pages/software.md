@@ -40,7 +40,7 @@ CoCoNet is a composite likelihood-based covariance regression network model for 
 DBSLMM is an accurate and scalable method for constructing polygenic scores in large biobank scale data sets. DBSLMM relies on a flexible modeling assumption on the effect size distribution to achieve robust and accurate prediction performance across a range of genetic architectures. DBSLMM also relies on a simple deterministic search algorithm to yield an approximate analytic estimation solution using summary statistics only, which, when paired with further algebraic innovations, resulting in substantial computational savings.
 
 * The package is currently available on <a href="https://github.com/biostat0903/DBSLMM">github</a>.
-* Scripts to fit the other PGS methods are also available at <a href="https://biostat0903.github.io/DBSLMM/Scripts.html">github</a>.
+* Scripts to fit the other PGS methods are available at <a href="https://biostat0903.github.io/DBSLMM/Scripts.html">here</a>.
 * Citation: Sheng Yang and Xiang Zhou (2020). Accurate and scalable construction of polygenic scores in large biobank data sets. American Journal of Human Genetics. 106: 679-693.
 * Contact <a href="mailto:yangsheng@njmu.edu.cn">Sheng Yang</a> with any questions, comments, or bugs reports.
 
@@ -59,7 +59,7 @@ DPR is a software package implementing the latent Dirichlet process regression m
 ECCO is computationally efficient approach for determining the optimal number of PEER factors for eQTL mapping analysis. ECCO requires the availability of an outcome phenotype in addition to the usual genotype and expression data required for eQTL mapping studies. With the outcome phenotype, ECCO estimates the gene expression effect on the phenotype for one gene at a time through two different analyses: a differential expression regression analysis and a Mendelian randomization (MR) analysis. By computing and examining the correlation between the estimated effect sizes from the two different analyses, ECCO can subsequently determine the optimal number of PEER factors for eQTL mapping analysis.
 
 * The package, along with its GTEx eQTL mapping results, is currently available on <a href="https://github.com/fanyue322/ECCO">github</a>.
-* Scripts to reproduce all results in the manuscript are also available at <a href="https://github.com/fanyue322/ECCOreproduce">github</a>.
+* Scripts to reproduce all results in the manuscript are available at <a href="https://github.com/fanyue322/ECCOreproduce">here</a>.
 * Citation: Fan Yue, Huanhuan Zhu, Yanyi Song, Qinke Peng and Xiang Zhou (2021). Efficient and effective control of confounding in eQTL mapping studies through joint differential expression and Mendelian randomization analyses. Bioinformatics. 37: 296–302.
 * Contact <a href="mailto:xafanyue@stu.xjtu.edu.cn">Yue Fan</a> with any questions, comments, or bugs reports.
 
@@ -73,7 +73,7 @@ GECKO is a computational method for estimating both genetic and environmental co
 * Contact <a href="mailto:borang@umich.edu">Boran Gao</a> with any questions, comments, or bugs reports.
 
 
-## Genome-wide Efficient Mixed Model Association (GEMMA: LMM, BSLMM, and mvLMM)
+## Genome-wide Efficient Mixed Model Association (GEMMA: LMM, mvLMM, BSLMM, and MQS)
 
 GEMMA is the software implementing the Genome-wide Efficient Mixed Model Association algorithm for a standard linear mixed model and some of its close relatives for genome-wide association studies (GWAS):
 
@@ -116,3 +116,11 @@ iDEA is a method for performing joint differential expression (DE) and gene set 
 * Contact <a href="mailto:sqsunsph@xjtu.edu.cn">Shiquan Sun</a> or <a href="mailto:ying_ma@brown.edu">Ying Ma</a> with any questions, comments, or bugs reports.
 
 
+## Integrative Methylation Association with GEnotypes (IMAGE)
+
+IMAGE is a method that performs methylation quantitative trait locus (mQTL) mapping in bisulfite sequencing studies. IMAGE jointly accounts for both allele-specific methylation information from heterozygous individuals and non-allele-specific methylation information across all individuals, enabling powerful ASM-assisted mQTL mapping. In addition, IMAGE relies on an over-dispersed binomial mixed model to directly model count data, which naturally accounts for sample non-independence resulting from individual relatedness, population stratification, or batch effects that are commonly observed in sequencing studies. IMAGE relies on a penalized quasi-likelihood (PQL) approximation-based algorithm for scalable model inference.
+
+* The package is currently available on <a href="https://github.com/fanyue322/IMAGE">github</a>.
+* All analysis scripts used in the paper are available <a href="https://github.com/fanyue322/IMAGEreproduce">here</a>.
+* Citation: Yue Fan, Tauras P. Vilgalys, Shiquan Sun, Qinke Peng, Jenny Tung and Xiang Zhou (2019). High-powered detection of genetic effects on DNA methylation using integrated methylation QTL mapping and allele-specific analysis. Genome Biology. 20: 220.
+* Contact <a href="mailto:xafanyue@stu.xjtu.edu.cn">Yue Fan</a> with any questions, comments, or bugs reports.
