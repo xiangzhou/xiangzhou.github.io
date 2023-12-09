@@ -120,7 +120,21 @@ iDEA is a method for performing joint differential expression (DE) and gene set 
 
 IMAGE is a method that performs methylation quantitative trait locus (mQTL) mapping in bisulfite sequencing studies. IMAGE jointly accounts for both allele-specific methylation information from heterozygous individuals and non-allele-specific methylation information across all individuals, enabling powerful ASM-assisted mQTL mapping. In addition, IMAGE relies on an over-dispersed binomial mixed model to directly model count data, which naturally accounts for sample non-independence resulting from individual relatedness, population stratification, or batch effects that are commonly observed in sequencing studies. IMAGE relies on a penalized quasi-likelihood (PQL) approximation-based algorithm for scalable model inference.
 
-* The package is currently available on <a href="https://github.com/fanyue322/IMAGE">github</a>.
+* The software is currently available on <a href="https://github.com/fanyue322/IMAGE">github</a>.
 * All analysis scripts used in the paper are available <a href="https://github.com/fanyue322/IMAGEreproduce">here</a>.
 * Citation: Yue Fan, Tauras P. Vilgalys, Shiquan Sun, Qinke Peng, Jenny Tung and Xiang Zhou (2019). High-powered detection of genetic effects on DNA methylation using integrated methylation QTL mapping and allele-specific analysis. Genome Biology. 20: 220.
 * Contact <a href="mailto:xafanyue@stu.xjtu.edu.cn">Yue Fan</a> with any questions, comments, or bugs reports.
+
+
+## integrative MApping of Pleiotropic association (iMAP)
+
+iMAP performs integrative mapping of pleiotropic association and functional annotations using penalized Gaussian mixture models. iMAP relies on a multinomial logistic regression model to incorporate a large number of binary and continuous SNP annotations, and, with a sparsity-inducing penalty term, is capable of selecting a small, informative set of annotations. In addition, iMAP directly models summary statistics from GWASs and uses a multivariate Gaussian distribution to account for phenotypic correlation between traits. As a result, iMAP is capable of integrating both binary and continuous SNP annotations, selecting informative annotations from a large set of potentially non-informative ones and using GWAS summary statistics while simultaneously accounting for phenotypic correlation between traits. 
+
+* The software is currently available on <a href="https://github.com/biostatpzeng/iMAP">github</a>.
+* An early version, <a href="iMAP-master.zip">version 1.00alpha</a>, was last modified on 10/04/2017.
+* Citation: Ping Zeng, Xingjie Hao and Xiang Zhou (2018). Pleiotropic mapping and annotation selection in genome-wide association studies with penalized Gaussian mixture models. Bioinformatics. 34: 2797-2807.
+* Contact <a href="mailto:zpstat@xzhmu.edu.cn">Ping Zeng</a> with any questions, comments, or bugs reports.
+
+
+
+    
