@@ -238,3 +238,13 @@ PQLseq is a method that fits generalized linear mixed models for analyzing RNA s
 * The software is available on <a href="https://github.com/xzhoulab/PQLseq">github</a> and <a href="https://cran.r-project.org/web/packages/PQLseq/index.html">CRAN</a>, with a <a href="PQLseqManual.pdf">User Manual</a> (last edited on 03/20/2018) and <a href="pqlseq_SA_update.R">an updated R script</a> for accessing the residuals, tau1 and tau2 (modified on 04/05/2023).
 * Citation: Shiquan Sun\*, Jiaqiang Zhu\*, Sahar Mozaffari, Carole Ober, Mengjie Chen and Xiang Zhou (2018). Heritability estimation and differential analysis with generalized linear mixed models in genomic sequencing studies. Bioinformatics. 35: 487-496.
 * Contact <a href="mailto:sqsunsph@xjtu.edu.cn">Shiquan Sun</a> or <a href="mailto:jiaqiang@umich.edu">Jiaqiang Zhu</a> with any questions, comments, or bugs reports.
+
+
+## Scalable Multiple Annotation integration for trait-Relevant Tissue identification (SMART)
+
+SMART is a software implementing the Scalable Multiple Annotation integration for trait-Relevant Tissue identification and usage. It extends the commonly used linear mixed model to relate variant effect sizes to variant annotations by introducing variant specific variance components that are functions of multiple annotations. It quantifies and evaluates the joint contribution of multiple annotations to genetic effect sizes by performing parameter inference using the widely used generalized estimation equation (GEE). The GEE-based algorithm in SMART allows for the use of summary statistics and naturally accounts for the correlation among summary statistics due to linkage disequilibrium. With GEE statistics, SMART applies mixture models to classify tissues into two categories—those that are relevant to the trait and those that are not—thus formulating the task of identifying trait-relevant tissues into a classification problem. 
+
+* Software: <a href="SMART_0.1.0.tar.gz">version 0.10</a>, released on 10/10/2017, with a <a href="SMART_example.rar">Data Example</a>.
+* Manual: Use install.packages() command to install the package. Use ?SMART or ?LDSM or ?EMmix to see the description of these functions and some simple scripts to run the data example. A detailed manual will appear soon.
+* Citation: Xingjie Hao, Ping Zeng, Shujun Zhang and Xiang Zhou (2018). Identifying and exploiting trait-relevant tissues with multiple functional annotations in genome-wide association studies. PLOS Genetics. e1007186.
+* Contact <a href="mailto:xingjiegenetics@qq.com">Xingjie Hao</a> with any questions, comments, or bugs reports.
