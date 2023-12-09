@@ -112,7 +112,7 @@ iDEA is a method for performing joint differential expression (DE) and gene set 
 
 * The package is currently available on <a href="https://xzhoulab.github.io/iDEA/">github</a>.
 * All analysis scripts used in the paper is available <a href="https://github.com/xzhoulab/iDEA-Analysis">here</a>.
-* Citation: Ying Ma, Shiquan Sun, Xuequn Shang, Evan T. Keller, Mengjie Chen and Xiang Zhou (2020). Integrative differential expression and gene set enrichment analysis using summary statistics for single cell RNAseq studies. Nature Communications. 11: 1585.
+* Citation: Ying Ma\*, Shiquan Sun\*, Xuequn Shang, Evan T. Keller, Mengjie Chen and Xiang Zhou (2020). Integrative differential expression and gene set enrichment analysis using summary statistics for single cell RNAseq studies. Nature Communications. 11: 1585.
 * Contact <a href="mailto:sqsunsph@xjtu.edu.cn">Shiquan Sun</a> or <a href="mailto:ying_ma@brown.edu">Ying Ma</a> with any questions, comments, or bugs reports.
 
 
@@ -231,4 +231,10 @@ moPMR-Egger, which extends PMR-Egger towards analyzing multiple outcome traits i
 * Contact <a href="mailto:yuanzhongshang@sdu.edu.cn">Zhongshang Yuan</a> or <a href="mailto:luliuu@umich.edu">Lu Liu</a> with any questions, comments, or bugs reports.
 
 
-## 
+## Penalized QuasiLikelihood for genomic Sequencing count data (PQLseq)
+
+PQLseq is a method that fits generalized linear mixed models for analyzing RNA sequencing and bisulfite sequencing data. It estimates gene expression or methylation heritability for count data. It performs differential expression analysis in the presence of individual relatedness or population stratificaiton.
+
+* The software is available on <a href="https://github.com/xzhoulab/PQLseq">github</a> and <a href="https://cran.r-project.org/web/packages/PQLseq/index.html">CRAN</a>, with a <a href="software/pqlseq/PQLseqManual.pdf">User Manual</a> (last edited on 03/20/2018) and <a href="software/pqlseq/pqlseq_SA_update.R">an updated R script</a> for accessing the residuals, tau1 and tau2 (modified on 04/05/2023).
+* Citation: Shiquan Sun\*, Jiaqiang Zhu\*, Sahar Mozaffari, Carole Ober, Mengjie Chen and Xiang Zhou (2018). Heritability estimation and differential analysis with generalized linear mixed models in genomic sequencing studies. Bioinformatics. 35: 487-496.
+* Contact <a href="mailto:sqsunsph@xjtu.edu.cn">Shiquan Sun</a> or <a href="mailto:jiaqiang@umich.edu">Jiaqiang Zhu</a> with any questions, comments, or bugs reports.
