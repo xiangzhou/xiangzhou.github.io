@@ -152,9 +152,9 @@ MACAU is the software implementing the Mixed model Association for Count data vi
 * Downloads:
   * <a href="macau">Executable</a>, Version 1.40, for x86 64-bit Linux, compiled on 08/09/2019.
   * <a href="macau-v1.40.rar">Source Code</a>, Version 1.40, last modified on 08/09/2019.
-  * <a href="software/macau/macau-example.tar.gz">Example Data Sets</a>: a bisulfite sequencing data with 438,865 methylation sites for 50 baboons; and	an RNA squencing data with 12,018 genes for 63 baboons.
-  * <a href="software/macau/MACAUmanual.pdf">User Manual</a>, last edited on 03/15/2017.
-  * <a href="software/macau/bb.r">R script</a> to fit a beta-binomial model.
+  * <a href="macau-example.tar.gz">Example Data Sets</a>: a bisulfite sequencing data with 438,865 methylation sites for 50 baboons; and	an RNA squencing data with 12,018 genes for 63 baboons.
+  * <a href="MACAUmanual.pdf">User Manual</a>, last edited on 03/15/2017.
+  * <a href="bb.r">R script</a> to fit a beta-binomial model.
 * Citations: 
   * Binomial mixed models for bisulfite sequencing analysis: Amanda J. Lea, Jenny Tung, and Xiang Zhou (2015). A flexible, effcient binomial mixed model for identifying differential DNA methylation in bisulfite sequencing data. PLoS Genetics. 11: e1005650.
   * Poisson mixed models for RNA sequencing analysis: Shiquan Sun, Michelle Hood, Laura Scott, Qinke Peng, Sayan Mukherjee, Jenny Tung, and Xiang Zhou (2017). Differential expression analysis for RNAseq using Poisson mixed models. Nucleic Acids Research. 45(11): e106.
