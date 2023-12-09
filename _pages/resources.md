@@ -8,7 +8,9 @@ author_profile: true
 
 ## eQTL mapping results on 1,032 African Americans and 801 European Americans in GENOA
 
-The cis-eQTL mapping summary statistics for <a href="AA_summary_statistics.txt.gz">African American</a> and <a href="EA_summary_statistics.txt.gz">European American</a>. Description of the file format is available <a href="GENOA_eQTL_README.txt">here</a>.
+Downlaod: cis-eQTL mapping summary statistics for <a href="AA_summary_statistics.txt.gz">African American</a> and <a href="EA_summary_statistics.txt.gz">European American</a>
+
+Description of the above file format is available <a href="GENOA_eQTL_README.txt">here</a>.
 
 All analysis code and scripts used in the paper are available on <a href="https://github.com/shangll123/GENOA_eQTL">github</a>.
 
@@ -19,7 +21,9 @@ Contact <a href="mailto:shanglu@umich.edu">Lulu Shang</a> with any questions and
 
 ## meQTL mapping results on 961 African Americans in GENOA
 
-The cis-meQTL mapping summary statistics for <a href="GENOA_meQTL_summary_stat_allchr.zip">African Americans</a>. Description of the file format is available <a href="GENOA_meQTL_README.txt">here</a>
+Download: cis-meQTL mapping summary statistics for <a href="GENOA_meQTL_summary_stat_allchr.zip">African Americans</a>.
+
+Description of the above file format is available <a href="GENOA_meQTL_README.txt">here</a>
 
 All analysis code and scripts used in the paper are available on <a href="https://github.com/shangll123/GENOA_meQTL">github</a>.
 
