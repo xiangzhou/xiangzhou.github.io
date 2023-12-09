@@ -84,8 +84,8 @@ GEMMA is the software implementing the Genome-wide Efficient Mixed Model Associa
 
 It is computationally efficient for large scale GWAS and uses freely available open-source numerical libraries.
 
-* The software is currently available on <a href="https://github.com/genetics-statistics/GEMMA">github</a>, with a <a href="software/GEMMAmanual.pdf">User Manual</a> (last edited on 05/18/2016) and a draft updated <a href="software/demo.txt">demo.txt</a> for variance component estimation.
-* An old version, <a href="software/gemma-0.94.tar.gz">version 0.94</a>, is compiled on 01/12/2014.
+* The software is currently available on <a href="https://github.com/genetics-statistics/GEMMA">github</a>, with a <a href="GEMMAmanual.pdf">User Manual</a> (last edited on 05/18/2016) and a draft updated <a href="demo.txt">demo.txt</a> for variance component estimation.
+* An old version, <a href="gemma-0.94.tar.gz">version 0.94</a>, is compiled on 01/12/2014.
 * Citations:
   * Software tool and univariate linear mixed model: Xiang Zhou and Matthew Stephens (2012). Genome-wide efficient mixed-model analysis for association studies. Nature Genetics. 44: 821–824.
   * Multivariate linear mixed model: Xiang Zhou and Matthew Stephens (2014). Efficient multivariate linear mixed model algorithms for genome-wide association studies. Nature Methods. 11(4): 407–409.
