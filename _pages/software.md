@@ -84,7 +84,7 @@ GEMMA is the software implementing the Genome-wide Efficient Mixed Model Associa
 
 It is computationally efficient for large scale GWAS and uses freely available open-source numerical libraries.
 
-* The software is currently available on <a href="https://github.com/genetics-statistics/GEMMA">github</a>, with a <a href="GEMMAmanual.pdf">User Manual</a> (last edited on 05/18/2016) and a draft updated <a href="demo.txt">demo.txt</a> for variance component estimation.
+* The software is currently available on <a href="https://github.com/genetics-statistics/GEMMA">github</a>, with a <a href="GEMMAmanual.pdf">User Manual</a> (last edited on 05/18/2016) and a sample code <a href="demo.txt">demo.txt</a> for variance component estimation.
 * An old version, <a href="gemma-0.94.tar.gz">version 0.94</a>, is compiled on 01/12/2014.
 * Citations:
   * Software tool and univariate linear mixed model: Xiang Zhou and Matthew Stephens (2012). Genome-wide efficient mixed-model analysis for association studies. Nature Genetics. 44: 821–824.
@@ -177,3 +177,58 @@ MESuSiE is a method for multi-ancestry fine-mapping analysis in genome-wide asso
 * The software is currently available on <a href="https://github.com/borangao/MESuSiE">github</a>.
 * Citation: Boran Gao, and Xiang Zhou (2022). MESuSiE: Multi-ancestry fine-mapping for scalable and powerful discovery of shared and ancestry-specific putative causal variants in genome-wide association studies. Nature Genetics. in press.
 * Contact <a href="mailto:borang@umich.edu">Boran Gao</a> with any questions, comments, or bugs reports.
+
+
+## Multi-ancEstry TRanscriptOme-wide analysis (METRO)
+
+METRO is a method that leverages expression data collected from multiple genetic ancestries to enhance the power of TWAS. METRO incorporates expression prediction models constructed from multiple ancestries through a joint likelihood-based inference framework, allowing us to account for the uncertainty in the prediction models constructed in each expression study. In addition, METRO is capable of inferring the contribution of expression prediction models in different genetic ancestries towards explaining and informing the gene-trait association, allowing us to interrogate the ancestry-dependent transcriptomic mechanisms underlying gene-trait association.
+
+* The package is currently available at <a href="https://github.com/zhengli09/METRO">github</a>.
+* Citation: Zheng Li, Wei Zhao, Lulu Shang, Thomas H Mosley, Sharon LR Kardia, Jennifer A. Smith, and Xiang Zhou (2021). METRO: Multi-ancestry transcriptome-wide association studies for powerful gene-trait association detection. American Journal of Human Genetics. 109: 783-801.
+* Contact <a href="mailto:zlisph@umich.edu">Zheng Li</a> with any questions, comments, or bugs reports.
+
+
+## Mendelian Randomization with Automated Instrument Determination (MRAID)
+
+MRAID is a software for carrying out Mendelian randomization analysis. MRAID borrows ideas from fine-mapping approaches to model an initial set of candidate SNP instruments that are in potentially high LD with each other and automatically selects among them the suitable instruments for MR analysis. MRAID also explicitly models two types of horizontal pleiotropic effects that are either uncorrelated or correlated with the instrumental effects on the exposure to ensure effective control of horizontal pleiotropy. MRAID achieves both analytic tasks through a joint likelihood inference framework and relies on a scalable sampling-based algorithm to compute calibrated p-values for causal inference. As a result, MRAID provides calibrated type I error control for causal effect testing in the presence of horizontal pleiotropy, reduces false positives and, as a by-product, estimates the proportion of SNPs exhibiting uncorrelated or correlated horizontal pleiotropy.
+
+* The software is currently available on <a href="https://github.com/yuanzhongshang/MRAID">github</a>.
+* Citation: Zhongshang Yuan, Lu Liu, Ping Guo, Ran Yan, Fuzhong Xue, and Xiang Zhou (2022). Likelihood based Mendelian randomization analysis with automated instrument selection and horizontal pleiotropic modeling. Science Advances. 8: eabl5744.
+* Contact <a href="mailto:yuanzhongshang@sdu.edu.cn">Zhongshang Yuan</a> with any questions, comments, or bugs reports.
+
+
+## Multi-trait assisted Polygenic Scores (mtPGS)
+
+mtPGS is a method that constructs accurate PGS for a target trait of interest through leveraging multiple traits relevant to the target trait. Specifically, mtPGS borrows SNP effect size similarity information between the target trait and its relevant traits to improve the effect size estimation on the target trait, thus achieving accurate PGS. In the process, mtPGS flexibly models the shared genetic architecture between the target and the relevant traits to achieve robust performance, while explicitly accounting for the environmental covariance among them to accommodate different study designs with various sample overlap patterns. In addition, mtPGS uses only summary statistics as input and relies on a deterministic algorithm with several algebraic techniques for scalable computation.
+
+* The software is currently available on <a href="https://github.com/xuchang0201/mtPGS">github</a>.
+* Citation: Chang Xu, Santhi Ganesh, and Xiang Zhou (2023). mtPGS: Leverage multiple correlated traits for accurate polygenic score construction.
+* Contact <a href="mailto:xuchang@umich.edu">Chang Xu</a> with any questions, comments, or bugs reports.
+
+
+## Omnigenic Mendelian Randomization (OMR)
+
+OMR is the software that explores the benefits of the omnigenic architecture for MR analysis. OMR builds upon the omnigenic modeling assumption on SNP effect sizes and use all genome-wide SNPs to serve as instrumental variables without any instrumental variable pre-selection. OMR imposes a general modeling assumption on the horizontal pleiotropic effects and relies on a scalable composite likelihood framework for causal effect inference.
+
+* The software is currently available on <a href="https://github.com/wanglu205/OMR">github</a>.
+* All scripts for reproducing the results presented in the paper is available <a href="https://github.com/wanglu205/OMRreproduce">here</a>.
+* Citation: Lu Wang, Boran Gao, Yue Fan, Fuzhong Xue, and Xiang Zhou (2021). Mendelian randomization under the omnigenic architecture. Briefings in Bioinformatics. 22: bbab322.  
+* Contact <a href="mailto:willa0205@yeah.net">Lu Wang</a> with any questions, comments, or bugs reports.
+
+
+## Probabilistic Mendelian Randomization for TWAS (PMR-Egger and moPMR-Egger)
+
+The PMR software package implements two methods:
+
+PMR-Egger, which is a method that fits probabilistic Mendelian randomization with an Egger regression assumption on horizontal pleiotropy for transcriptome-wide association studies (TWASs). PMR-Egger relies on a new MR likelihood framework that unifies many existing TWAS and MR methods, accommodates multiple correlated instruments, tests the causal effect of gene on trait in the presence of horizontal pleiotropy, directly performs genome-wide test of horizontal pleiotropy, and, with a newly developed parameter expansion version of the expectation maximization algorithm, is scalable to hundreds of thousands of individuals.
+
+moPMR-Egger, which extends PMR-Egger towards analyzing multiple outcome traits in TWAS applications. moPMR-Egger examines one gene at a time, relies on its cis-SNPs that are in potential linkage disequilibrium with each other to serve as instrumental variables, and tests its causal effects on multiple traits jointly. A key feature of moPMR-Egger is its ability to test and control for potential horizontal pleiotropic effects from instruments, thus maximizing power while minimizing false associations for TWASs. moPMR-Egger provides calibrated type I error control for both causal effects testing and horizontal pleiotropic effects testing and is more powerful than existing univariate TWAS approaches in detecting causal associations.
+
+* The package is currently available on <a href="https://github.com/yuanzhongshang/PMR">github</a>.
+* Citations:
+  * Zhongshang Yuan, Huanhuan Zhu, Ping Zeng, Sheng Yang, Shiquan Sun, Can Yang, Jin Liu, and Xiang Zhou (2020). Testing and controlling for horizontal pleiotropy with the probabilistic Mendelian randomization in transcriptome-wide association studies. Nature Communications. 11: 3861.
+  * Lu Liu, Ping Zeng, Fuzhong Xue, ZhongshangYuan, and Xiang Zhou (2021). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization. American Journal of Human Genetics. 108: 240-256.
+* Contact <a href="mailto:yuanzhongshang@sdu.edu.cn">Zhongshang Yuan</a> or <a href="mailto:luliuu@umich.edu">Lu Liu</a> with any questions, comments, or bugs reports.
+
+
+## 
