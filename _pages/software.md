@@ -96,3 +96,23 @@ variance component estimation with summary statistics in genome-wide
 association studies. Annals of Applied Statistics. 11(4): 2027-2051.
 * Click <a href="https://github.com/genetics-statistics/GEMMA/issues">here</a> if you have any questions, comments, or bugs reports.
 
+
+## Gene-based Integrative Fine-mapping through conditional TWAS (GIFT)
+
+GIFT is a Gene-based Integrative Fine-mapping for performing conditional TWAS analysis. GIFT examines one genomic region at a time, jointly models the GReX of all genes residing in the focal region, and carries out TWAS conditional analysis in a maximum likelihood framework. In the process, GIFT explicitly models the gene expression correlation and cis-SNP LD across different genes in the region and accounts for the uncertainty in the constructed GReX. As a result, GIFT provides effective type I error control, refines marginal TWAS associations into a much smaller set of putatively causal associations, and yields high statistical power with reduced false discoveries.
+
+* The software is currently available on <a href="https://yuanzhongshang.github.io/GIFT/">github</a>.
+* Citation: Lu Liu, Ran Yan, Ping Guo, Jiadong Ji, Weiming Gong, Fuzhong Xue, Zhongshang Yuan, and Xiang Zhou (2023). Conditional transcriptome-wide association study for fine-mapping causal genes. Nature Genetics. in press.
+* Contact <a href="mailto:luliuu@umich.edu">Lu Liu</a> with any questions, comments, or bugs reports.
+
+
+## integrative Differential expression and gene set Enrichment Analysis (iDEA)
+
+iDEA is a method for performing joint differential expression (DE) and gene set enrichment (GSE) analysis. iDEA builds upon a hierarchical Bayesian model for joint modeling of DE and GSE analyses. It uses only summary statistics as input, allowing for effective data modeling through complementing and pairing with various existing DE methods. It relies on an efficient expectation-maximization algorithm with internal Markov Chain Monte Carlo steps for scalable inference. By integrating DE and GSE analyses, iDEA can improve the power and consistency of DE analysis and the accuracy of GSE analysis over common existing approaches. 
+
+* The package is currently available on <a href="https://xzhoulab.github.io/iDEA/">github</a>.
+* All analysis scripts used in the paper is available <a href="https://github.com/xzhoulab/iDEA-Analysis">here</a>.
+* Citation: Ying Ma, Shiquan Sun, Xuequn Shang, Evan T. Keller, Mengjie Chen and Xiang Zhou (2020). Integrative differential expression and gene set enrichment analysis using summary statistics for single cell RNAseq studies. Nature Communications. 11: 1585.
+* Contact <a href="mailto:sqsunsph@xjtu.edu.cn">Shiquan Sun</a> or <a href="mailto:ying_ma@brown.edu">Ying Ma</a> with any questions, comments, or bugs reports.
+
+
