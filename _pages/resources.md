@@ -22,7 +22,7 @@ author_profile: true
 
 ## eQTL mapping results on 1,032 African Americans and 801 European Americans in GENOA
 
-* Downlaod: cis-eQTL mapping summary statistics for <a href="AA_summary_statistics.txt.gz">African American</a> and <a href="EA_summary_statistics.txt.gz">European American</a>
+* Downlaod: cis-eQTL mapping summary statistics for <a href="http://www.xzlab.org/data/AA_summary_statistics.txt.gz">African American</a> and <a href="http://www.xzlab.org/data/EA_summary_statistics.txt.gz">European American</a>
 
 * Description of the above file format is available <a href="GENOA_eQTL_README.txt">here</a>.
 
@@ -35,7 +35,7 @@ author_profile: true
 
 ## meQTL mapping results on 961 African Americans in GENOA
 
-* Download: cis-meQTL mapping summary statistics for <a href="GENOA_meQTL_summary_stat_allchr.zip">African Americans</a>.
+* Download: cis-meQTL mapping summary statistics for <a href="http://www.xzlab.org/data/GENOA_meQTL_summary_stat_allchr.zip">African Americans</a>.
 
 * Description of the above file format is available <a href="GENOA_meQTL_README.txt">here</a>
 
