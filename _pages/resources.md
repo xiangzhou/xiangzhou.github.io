@@ -6,6 +6,20 @@ author_profile: true
 ---
 
 
+## SRT-Server: Spatially Resolved Transcriptomics Data Analysis
+
+* The current server is accessible <a href="https://spatialtranscriptomicsanalysis.com">here</a>.
+
+* Citation: Sheng Yang, and Xiang Zhou (2023). SRT-Server: Powering the analysis and visualization of spatially resolved transcriptomics data.
+
+
+## PGS-Server: Constructing Polygenic Scores for Genome-wide Association Studies
+
+* The current server is accessible <a href="https://pgs-server.com">here</a>.
+
+* Citation: Sheng Yang, and Xiang Zhou (2022). PGS-server: accuracy, robustness and transferability of polygenic score methods for biobank scale studies. 
+
+
 ## eQTL mapping results on 1,032 African Americans and 801 European Americans in GENOA
 
 Downlaod: cis-eQTL mapping summary statistics for <a href="AA_summary_statistics.txt.gz">African American</a> and <a href="EA_summary_statistics.txt.gz">European American</a>
