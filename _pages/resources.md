@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 
-## SRT-Server: Spatially Resolved Transcriptomics Data Analysis
+## SRT-Server for spatial transcriptomics data analysis
 
 * The current server is accessible <a href="https://spatialtranscriptomicsanalysis.com">here</a>.
 
 * Citation: Sheng Yang, and Xiang Zhou (2023). SRT-Server: Powering the analysis and visualization of spatially resolved transcriptomics data.
 
 
-## PGS-Server: Constructing Polygenic Scores for Genome-wide Association Studies
+## PGS-Server for constructing polygenic scores in genome-wide association studies
 
 * The current server is accessible <a href="https://pgs-server.com">here</a>.
 
