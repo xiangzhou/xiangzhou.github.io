@@ -64,6 +64,15 @@ ECCO is computationally efficient approach for determining the optimal number of
 * Contact <a href="mailto:xafanyue@stu.xjtu.edu.cn">Yue Fan</a> with any questions, comments, or bugs reports.
 
 
+## Fine-mApping of causal genes for BInary Outcomes (FABIO)
+
+FABIO is a transcriptome-wide association study (TWAS) fine-mapping method specifically designed for binary traits that is capable of modeling all genes jointly on an entire chromosome. FABIO relies on a probit model to directly relate multiple GReX to binary outcome. Additionally, it jointly models all genes located on a chromosome to account for the correlation among GReX arising from cis-SNP LD and expression correlation across genomic regions. As a result, FABIO effectively controls false discoveries while offering substantial power gains over existing TWAS fine-mapping approaches.
+
+* The software is currently available on <a href="https://github.com/superggbond/FABIO/">github</a>.
+* Citation: Haihan Zhang, Kevin He, Lam C. Tsoi, and Xiang Zhou (2023). FABIO: A TWAS fine-mapping method for prioritizing causal genes in binary traits.
+* Contact <a href="mailto:hhzhang@umich.edu">Haihan Zhang</a> with any questions, comments, or bugs reports.
+
+
 ## Genetic and Environmental Covariance estimation by composite-liKelihood Optimization (GECKO)
 
 GECKO is a computational method for estimating both genetic and environmental covariances using GWAS summary statistics. GECKO improves estimation accuracy of method of moments algorithms while keeping computation in check. GECKO relies on composite likelihood, is scalable computationally, uses only on summary statistics, provides accurate genetic and environmental covariance estimates across a range of scenarios, and accommodates SNP annotation stratified covariance estimation.
