@@ -22,4 +22,4 @@ author_profile: true
 - Biostat 666. Statistical Models in Human Genetics. Fall 2015; Fall 2016.
 - Biostat 682. Applied Bayesian Inference. Fall 2019.
 - Biostat 830. Special Topics: Advanced Bayesian Models and Computational Methods. Winter 2015.
-- Epid 701, Fundamentals of Biostatistics. Summer 2023.
+- Epid 701, Fundamentals of Biostatistics. Summer 2023; Summer 2024.
