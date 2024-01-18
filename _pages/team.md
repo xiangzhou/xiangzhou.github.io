@@ -12,7 +12,7 @@ author_profile: true
 * Kalins Banerjee, Postdoc (09/2021 - Present).
 * Jade Wang, Postdoc (03/2022 - Present).
 * Chao Ning, Postdoc (03/2023 - Present).
-* Wenjing Ma, Postdoc (07/2023 - Present).
+* <a href="https://marvinquiet.github.io/">Wenjing Ma</a>, Postdoc (07/2023 - Present).
 * Lu Liu, Postdoc (07/2023 - Present).
 * Siyu Hou, Postdoc (08/2023 - Present).
 * Boran Gao, PhD Student of Biostatistics (05/2017 - Present), admitted to the PhD program in 2017.
