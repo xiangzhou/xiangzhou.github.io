@@ -12,7 +12,7 @@ The full list of publications is available on <u><a href="https://scholar.google
 
 ## 2024
 
-* Sheng Yang, and Xiang Zhou (2024). SRT-Server: Powering the analysis of spatial transcriptomic data. Genome Medicine. in press.
+* Sheng Yang, and Xiang Zhou (2024). <a href="https://spatialtranscriptomicsanalysis.com">SRT-Server</a>: Powering the analysis of spatial transcriptomic data. Genome Medicine. in press. 
 * Lu Liu, Ran Yan, Ping Guo, Jiadong Ji, Weiming Gong, Fuzhong Xue, Zhongshang Yuan, and Xiang Zhou (2024). Conditional transcriptome-wide association study for fine-mapping candidate causal genes. Nature Genetics. in press.
 * Boran Gao, and Xiang Zhou (2024). MESuSiE: Multi-ancestry fine-mapping for scalable and powerful discovery of shared and ancestry-specific putative causal variants in genome-wide association studies. Nature Genetics. 56: 170-179.
 
@@ -30,7 +30,7 @@ The full list of publications is available on <u><a href="https://scholar.google
 * Fred Boehm, and Xiang Zhou (2022). Statistical methods for Mendelian randomization in genome-wide association studies: A review. Computational and Structural Biotechnology Journal. 20: 2338-2351.
 * Ying Ma, and Xiang Zhou (2022). Spatially informed cell type deconvolution for spatial transcriptomics. Nature Biotechnology. 40: 1349–1359.
 * Zheng Li, Wei Zhao, Lulu Shang, Thomas H Mosley, Sharon LR Kardia, Jennifer A Smith, and Xiang Zhou (2022). METRO: Multi-ancestry transcriptome-wide association studies for powerful gene-trait association detection. American Journal of Human Genetics. 109: 783-801.
-* Sheng Yang, and Xiang Zhou (2022). PGS-Server: Accuracy, robustness, and transferability of polygenic score methods for biobank scale studies. Briefings in Bioinformatics. 22: bbac039.
+* Sheng Yang, and Xiang Zhou (2022). <a href="https://pgs-server.com">PGS-Server</a>: Accuracy, robustness, and transferability of polygenic score methods for biobank scale studies. Briefings in Bioinformatics. 22: bbac039.
 * Jialu Hu, Mengjie Chen, and Xiang Zhou (2022). Effective and scalable single-cell data alignment with non-linear canonical correlation analysis. Nucleic Acids Research. 50: e21.
 * Zhongshang Yuan, Lu Liu, Ping Guo, Ran Yan, Fuzhong Xue, and Xiang Zhou (2022). Likelihood based Mendelian randomization analysis with automated instrument selection and horizontal pleiotropic modeling. Science Advances. 8: eabl5744.
 
