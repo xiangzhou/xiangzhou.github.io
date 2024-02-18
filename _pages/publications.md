@@ -12,8 +12,8 @@ The full list of publications is available on <u><a href="https://scholar.google
 
 ## 2024
 
-* Sheng Yang, and Xiang Zhou (2024). <a href="https://spatialtranscriptomicsanalysis.com">SRT-Server</a>: Powering the analysis of spatial transcriptomic data. Genome Medicine. in press. 
-* Lu Liu, Ran Yan, Ping Guo, Jiadong Ji, Weiming Gong, Fuzhong Xue, Zhongshang Yuan, and Xiang Zhou (2024). Conditional transcriptome-wide association study for fine-mapping candidate causal genes. Nature Genetics. in press.
+* Sheng Yang, and Xiang Zhou (2024). <a href="https://spatialtranscriptomicsanalysis.com">SRT-Server</a>: Powering the analysis of spatial transcriptomic data. Genome Medicine. 16: 18.
+* Lu Liu, Ran Yan, Ping Guo, Jiadong Ji, Weiming Gong, Fuzhong Xue, Zhongshang Yuan, and Xiang Zhou (2024). Conditional transcriptome-wide association study for fine-mapping candidate causal genes. Nature Genetics. 56: 348–356.
 * Boran Gao, and Xiang Zhou (2024). MESuSiE: Multi-ancestry fine-mapping for scalable and powerful discovery of shared and ancestry-specific putative causal variants in genome-wide association studies. Nature Genetics. 56: 170-179.
 
 ## 2023
