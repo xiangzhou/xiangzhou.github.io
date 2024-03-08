@@ -249,6 +249,15 @@ PQLseq is a method that fits generalized linear mixed models for analyzing RNA s
 * Contact <a href="mailto:sqsunsph@xjtu.edu.cn">Shiquan Sun</a> or <a href="mailto:jiaqiang@umich.edu">Jiaqiang Zhu</a> with any questions, comments, or bugs reports.
 
 
+## PGS-based phenotype prediction interval (PredInterval)
+
+PredInterval is designed to quantify phenotype prediction uncertainty through the construction of well-calibrated prediction intervals. PredInterval is non-parametric in natural and extracts information based on quantiles of phenotypic residuals through cross-validations, thus achieving well-calibrated coverage of true phenotypic values across a range of settings and traits with distinct genetic architecture. In addition, the PredInterval framework is general and can be paired with any PGS method. 
+
+* The software is available on <a href="https://github.com/xuchang0201/PredInterval">github</a>.
+* Citation: Chang Xu, Santhi Ganesh, and Xiang Zhou (2024). Statistical construction of calibrated prediction intervals for polygenic score based phenotype prediction.
+* Contact <a href="mailto:xuchang@umich.edu">Chang Xu</a> with any questions, comments, or bugs reports.
+
+
 ## Scalable Multiple Annotation integration for trait-Relevant Tissue identification (SMART)
 
 SMART is a software implementing the Scalable Multiple Annotation integration for trait-Relevant Tissue identification and usage. It extends the commonly used linear mixed model to relate variant effect sizes to variant annotations by introducing variant specific variance components that are functions of multiple annotations. It quantifies and evaluates the joint contribution of multiple annotations to genetic effect sizes by performing parameter inference using the widely used generalized estimation equation (GEE). The GEE-based algorithm in SMART allows for the use of summary statistics and naturally accounts for the correlation among summary statistics due to linkage disequilibrium. With GEE statistics, SMART applies mixture models to classify tissues into two categories—those that are relevant to the trait and those that are not—thus formulating the task of identifying trait-relevant tissues into a classification problem. 
