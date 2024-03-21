@@ -21,7 +21,7 @@ author_profile: true
 * Zheng Li, PhD Student of Biostatistics (07/2019 - Present), admitted to the PhD program in 2020.
 * Peiyao Zhao, PhD Student of Biostatistics (10/2020 - Present), admitted to the PhD program in 2021.
 * Yanlin Tong, PhD Student of Biostatistics (05/2022 - Present), admitted to the PhD program in 2023.
-* Robert Langefeld, MS Student of Biostatistics (09/2022 - Present), Genome Science Training Program (GSTP), admitted to the MS program in 2022.
+* Robert Langefeld, MS Student of Biostatistics (09/2022 - Present), Genome Science Training Program (GSTP), admitted to the MS program in 2022 and PhD program in 2024.
 
 ## Alumni
 
@@ -42,7 +42,7 @@ author_profile: true
 * Sheng Yang, Postdoc (02/2018 - 02/2020). now an Associate Professor at Nanjing Medical University.
 * Zhongshang Yuan, Postdoc (10/2017-12/2019), now a Professor at Shandong University.
 * Shiquan Sun, Visiting PhD Student (09/2015-01/2017) and Postdoc (11/2017-12/2019), now a Professor at Xi'an Jiaotong University.
-* Julong Wei, Postdoc (11/2018 - 06/2019). now a Postdoc at Wayne State University working on joint projects.
+* Julong Wei, Postdoc (11/2018 - 06/2019). now a Postdoc at Wayne State University.
 * Ping Zeng, Postdoc (10/2015-09/2017), now an Associate Professor at Xuzhou Medical University.
 
 # Visiting Students
