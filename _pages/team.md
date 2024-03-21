@@ -25,7 +25,7 @@ author_profile: true
 
 ## Alumni
 
-# Students
+### Students
 
 * Lulu Shang, PhD Student (05/2017 - 08/2023), admitted in 2018, now an Assistant Professor at MD Anderson.
 * Ying Ma, PhD Student (09/2017 - 07/2023), admitted in 2018, now an Assistant Professor at Brown University.
@@ -34,7 +34,7 @@ author_profile: true
 * Yanyi Song, PhD Student (09/2016 - 09/2020), admitted in 2016, co-advised with Prof. Bhramar Mukherjee, now a Data Scientist at Facebook.
 * Christopher Lee, PhD Student (09/2017 - 01/2020), admitted in 2015, co-advised with Prof. Maureen Sartor, now a Bioinformatics Scientist at NIA.
 
-# Postdocs
+### Postdocs
 
 * Fred Boehm, Postdoc (06/2021-05/2023), now a Postdoc at University of Michigan working on joint projects.
 * Huanhuan Zhu, Postdoc (07/2018 - 09/2020), now an Associate Research Fellow in the Precision Health Research Institute at BGI.
@@ -45,13 +45,13 @@ author_profile: true
 * Julong Wei, Postdoc (11/2018 - 06/2019). now a Postdoc at Wayne State University.
 * Ping Zeng, Postdoc (10/2015-09/2017), now an Associate Professor at Xuzhou Medical University.
 
-# Visiting Students
+### Visiting Students
 
 * Yue Fan, Visiting PhD Student (11/2017-11/2019), now an Assistant Professor at Xi'an Jiaotong University.
 * Lu Wang, Visiting PhD Student (08/2018-09/2019), now finishing up PhD at Shandong University.
 * Xingjie Hao, Visiting PhD Student (02/2016-01/2018), now an Associate Professor at Huazhong University of Science and Technology.
 
-# Visiting Scholars
+### Visiting Scholars
 
 * Jin Zhang, Visiting Scholar (04/2018-04/2019), now an Associate Professor at Nanjing Agricultural University.
 
