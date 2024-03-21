@@ -25,6 +25,16 @@ CARD is the software that leverages cell type specific expression information fr
 * Contact <a href="mailto:ying_ma@brown.edu">Ying Ma</a> with any questions, comments, or bugs reports.
 
 
+
+## CELl type-specific spatially variable gene IdentificatioN Analysis (CELINA)
+
+CELINA is the software that can be used to systematically identify cell type specific spatially variable genes (ct-SVGs) across a variety of spatial transcriptomics platforms. Celina examines one gene at a time and uses a spatially varying coefficient model to explicitly and accurately model gene’s spatial expression pattern in relation to the cell type distribution across tissue locations. As a result, Celina provides effective type I error control and high statistical power in both single cell and spot resolution spatial transcriptomics.
+
+* The software is currently available on <a href="https://github.com/pekjoonwu/CELINA">github</a>.
+* Citation: Lulu Shang, Peijun Wu, and Xiang Zhou (2024). Statistical identification of cell type-specific spatially variable genes in spatial transcriptomics.
+* Contact <a href="mailto:lshang@mdanderson.org">Lulu Shang</a> or <a href="mailto:pekjoonw@umich.edu">Peijun Wu</a> with any questions, comments, or bugs reports.
+
+
 ## COmposite likelihood-based COvariance regression NETwork model (CoCoNet)
 
 CoCoNet is a composite likelihood-based covariance regression network model for identifying trait-relevant tissues or cell types. CoCoNet integrates tissue-specific gene co-expression networks constructed from either bulk or single cell RNA sequencing studies with association summary statistics from genome-wide association studies. CoCoNet relies on a covariance regression network model to express gene-level effect sizes for the given GWAS trait as a function of the tissue-specific co-expression adjacency matrix. With a composite likelihood-based inference algorithm, CoCoNet is scalable to tens of thousands of genes.
@@ -32,7 +42,7 @@ CoCoNet is a composite likelihood-based covariance regression network model for 
 * The package is currently available <a href="http://lulushang.org/docs/Projects/CoCoNet">here</a>.
 * All analysis scripts used in the paper is available <a href="http://lulushang.org/docs/Projects/CoCoNet/Reproduce">here</a>.
 * Citation: Lulu Shang, Jennifer A. Smith and Xiang Zhou (2020). Leveraging gene co-expression patterns to infer trait-relevant tissues in genome-wide association studies. PLOS Genetics. 16: e1008734.
-* Contact <a href="mailto:shanglu@umich.edu">Lulu Shang</a> with any questions, comments, or bugs reports.
+* Contact <a href="mailto:lshang@mdanderson.org">Lulu Shang</a> with any questions, comments, or bugs reports.
 
 
 ## Deterministic Bayesian Sparse Linear Mixed Model (DBSLMM)
@@ -276,7 +286,7 @@ SpatialPCA is the software that perform spatially aware dimension reduction for 
 * All scripts for reproducing the results presented in the paper is available
   <a href="http://lulushang.org/docs/Projects/SpatialPCA">here</a>.
 * Citation: Lulu Shang, and Xiang Zhou (2022). Spatially aware dimension reduction for spatial transcriptomics. Nature Communications. 13: 7203.
-* Contact <a href="mailto:shanglu@umich.edu">Lulu Shang</a> with any questions, comments, or bugs reports.
+* Contact <a href="mailto:lshang@mdanderson.org">Lulu Shang</a> with any questions, comments, or bugs reports.
 
 
 ## Spatial PAttern Recognition via Kernels (SPARK and SPARK-X)
@@ -297,7 +307,7 @@ SRTsim is a software simulator for generating synthetic spatially resolved trans
 
 * The software is currently available on <a href="https://xzhoulab.github.io/SRTsim/">github</a>.
 * Citation: Jiaqiang Zhu*, Lulu Shang*, and Xiang Zhou (2022). SRTsim: spatial pattern preserving simulations for spatially resolved transcriptomics.
-* Contact <a href="mailto:jiaqiang@umich.edu">Jiaqiang Zhu</a> or <a href="mailto:shanglu@umich.edu">Lulu Shang</a> with any questions, comments, or bugs reports.
+* Contact <a href="mailto:jiaqiang@umich.edu">Jiaqiang Zhu</a> or <a href="mailto:lshang@mdanderson.org">Lulu Shang</a> with any questions, comments, or bugs reports.
 
 
 ## Variational Inference based Probabilistic Canonical Correlation Analysis (VIPCCA)
