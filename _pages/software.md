@@ -30,7 +30,7 @@ CARD is the software that leverages cell type specific expression information fr
 
 CELINA is the software that can be used to systematically identify cell type specific spatially variable genes (ct-SVGs) across a variety of spatial transcriptomics platforms. Celina examines one gene at a time and uses a spatially varying coefficient model to explicitly and accurately model gene’s spatial expression pattern in relation to the cell type distribution across tissue locations. As a result, Celina provides effective type I error control and high statistical power in both single cell and spot resolution spatial transcriptomics.
 
-* The software is currently available on <a href="https://github.com/pekjoonwu/CELINA">github</a>.
+* The software is currently available on the <a href="https://lulushang.org/Celina_Tutorial/index.html">website</a> with source code available on <a href="https://github.com/pekjoonwu/CELINA">github</a>.
 * Citation: Lulu Shang, Peijun Wu, and Xiang Zhou (2024). Statistical identification of cell type-specific spatially variable genes in spatial transcriptomics.
 * Contact <a href="mailto:lshang@mdanderson.org">Lulu Shang</a> or <a href="mailto:pekjoonw@umich.edu">Peijun Wu</a> with any questions, comments, or bugs reports.
 
