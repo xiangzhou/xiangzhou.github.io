@@ -15,7 +15,7 @@ author_profile: true
 
 ## PGS-Server for constructing polygenic scores in genome-wide association studies
 
-* The current server is accessible <a href="https://pgs-server.com">here</a>, with source code available on <a href="https://github.com/biostat0903/PGS-Server">github</a>.
+* The current server is accessible <a href="http://www.pgsfusion.net/#/">here</a>, with source code available on <a href="https://github.com/biostat0903/PGS-Server">github</a>.
 
 * Citation: Sheng Yang, and Xiang Zhou (2022). PGS-server: Accuracy, robustness and transferability of polygenic score methods for biobank scale studies. Briefings in Bioinformatics. 23: bbac039. 
 
