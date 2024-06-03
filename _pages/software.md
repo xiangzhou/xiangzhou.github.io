@@ -160,7 +160,7 @@ iMAP performs integrative mapping of pleiotropic association and functional anno
 IRIS (Integrative and Reference-Informed tissue Segmentation) is a method for spatial domain detection in spatially resolved transcriptomics (SRT). IRIS models multiple tissue slices jointly and segments each tissue slice into multiple spatial domains. IRIS also accounts for the spatial correlation structure commonly observed across locations on each tissue slice and explicitly models the similarity in cell type composition underling similar spatial domains across tissue slices. A unique feature of IRIS is its ability to incorporate a scRNA-seq data to serve as the reference for domain detection, which allows IRIS to seamlessly integrate the cell type specific transcriptomic profiles from the scRNA-seq reference to the SRT dataset to substantially improve the accuracy in spatial domain detection. As a result, IRIS is accurate, scalable, and robust for spatial domain detection across a range of SRT technologies with distinct spatial resolutions.
 
 * The software is currently available on <a href="https://github.com/YingMa0107/IRIS/">github</a>, with a tutorial available <a href="https://yingma0107.github.io/IRIS/">here</a>.
-* Citation: Ying Ma, and Xiang Zhou (2023). Integrative and reference-informed spatial domain detection for spatial transcriptomics.
+* Citation: Ying Ma, and Xiang Zhou (2024). Integrative and reference-informed spatial domain detection for spatial transcriptomics. Nature Methods.
 * Contact <a href="mailto:ying_ma@brown.edu">Ying Ma</a> with any questions, comments, or bugs reports.
 
 
@@ -328,6 +328,15 @@ VIPER is a method that performs Variability Preserving ImPutation for Expression
 * All analysis scripts used in the paper is available <a href="https://github.com/ChenMengjie/Vpaper2018">here</a>.
 * Citation: Mengjie Chen and Xiang Zhou (2018). VIPER: variability-preserving imputation foraccurate gene expression recovery insingle-cell RNA sequencing studies. Genome Biology. 19:196.
 * Contact <a href="mailto:mengjiechen@uchicago.edu"> Mengjie Chen </a> with any questions, comments, or bugs reports.
+
+
+## Variant-set test INtegrative TWAS for GEne-based analysis (VINTAGE)
+
+VINTAGE is a unified statistical framework for integrative analysis of GWAS and eQTL mapping studies to identify and decipher gene-trait associations. VINTAGE explicitly quantifies and tests the proportion of genetic effects on a trait potentially mediated through gene expression using a local genetic correlation test, and further leverages such information to guide the integration of gene expression mapping study towards gene association mapping in GWAS through a genetic variance test. The explicit quantification of local genetic correlation in VINTAGE allows its gene association test to unify two seemingly unrelated methods, SKAT and TWAS, into the same analytic framework and include both as special cases, thus achieving robust performance across a range of scenarios. 
+
+* The package is currently available on <a href="https://github.com/zhengli09/VINTAGE">github</a>, with a tutorial available <a href="https://zhengli09.github.io/VINTAGE-analysis/">here</a>.
+* Citation: Zheng Li, Boran Gao, and Xiang Zhou (2024). VINTAGE: A unified framework integrating gene expression mapping studies with genome-wide association studies for detecting and deciphering gene-trait associations.
+* Contact <a href="mailto:zlisph@umich.edu"> Zheng Li </a> with any questions, comments, or bugs reports.
 
 
 ## Paternity Inference from Low-Coverage Sequencing Data (WHODAD)
