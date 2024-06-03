@@ -334,7 +334,7 @@ VIPER is a method that performs Variability Preserving ImPutation for Expression
 
 VINTAGE is a unified statistical framework for integrative analysis of GWAS and eQTL mapping studies to identify and decipher gene-trait associations. VINTAGE explicitly quantifies and tests the proportion of genetic effects on a trait potentially mediated through gene expression using a local genetic correlation test, and further leverages such information to guide the integration of gene expression mapping study towards gene association mapping in GWAS through a genetic variance test. The explicit quantification of local genetic correlation in VINTAGE allows its gene association test to unify two seemingly unrelated methods, SKAT and TWAS, into the same analytic framework and include both as special cases, thus achieving robust performance across a range of scenarios. 
 
-* The package is currently available on <a href="https://github.com/zhengli09/VINTAGE">github</a>, with a tutorial available <a href="https://zhengli09.github.io/VINTAGE-analysis/">here</a>.
+* The package is currently available on <a href="https://github.com/zhengli09/VINTAGE">github</a>, with both a tutorial and code for reproducing all real data analysis results available <a href="https://zhengli09.github.io/VINTAGE-analysis/">here</a>.
 * Citation: Zheng Li, Boran Gao, and Xiang Zhou (2024). VINTAGE: A unified framework integrating gene expression mapping studies with genome-wide association studies for detecting and deciphering gene-trait associations.
 * Contact <a href="mailto:zlisph@umich.edu"> Zheng Li </a> with any questions, comments, or bugs reports.
 
