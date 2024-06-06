@@ -27,8 +27,8 @@ author_profile: true
 
 ### Students
 
-* Lulu Shang, PhD Student (05/2017 - 08/2023), admitted in 2018, now an Assistant Professor at MD Anderson.
-* Ying Ma, PhD Student (09/2017 - 07/2023), admitted in 2018, now an Assistant Professor at Brown University.
+* Lulu Shang, PhD Student (05/2017 - 08/2023), admitted in 2018, now an Assistant Professor of Biostatistics at MD Anderson.
+* Ying Ma, PhD Student (09/2017 - 07/2023), admitted in 2018, now an Assistant Professor of Biostatistics at Brown University.
 * Jiaqiang Zhu, PhD Student (05/2016 - 06/2022), admitted in 2017, now a Senior Biostatistician at Vertex Pharmaceuticals.
 * Hengshi Yu, PhD Student (03/2020 - 06/2022), admitted in 2017, co-advised with Prof. Joshua Welch, now a Data Scientist at Google.
 * Yanyi Song, PhD Student (09/2016 - 09/2020), admitted in 2016, co-advised with Prof. Bhramar Mukherjee, now a Data Scientist at Facebook.
