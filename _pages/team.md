@@ -8,7 +8,7 @@ author_profile: true
 
 ## Current Members
 
-* Xiang Zhou, Professor in the Department of Biostatistics at the University of Michigan. Before joining UM, he was a William H. Kruskal Instructor in the Department of Statistics at the University of Chicago. He received his postdoc training in Matthew Stephens lab in the Department of Human Genetics and Department of Statistics at the University of Chicago, where he also worked closely with people in Yoav Gilad lab. He obtained his MS and PhD degrees at Duke University, where his was advised by Fan Wang and Scott Schmidler, and worked closely with Jerry Reiter. He was trained as both a statistician and a biologist.
+* Xiang Zhou, Professor in the Department of Biostatistics at the University of Michigan. Prior to joining UM, he was a William H. Kruskal Instructor in the Department of Statistics at the University of Chicago. He completed his postdoctoral training in Matthew Stephens' lab in the Department of Human Genetics and Department of Statistics at the University of Chicago, where he also collaborated closely with researchers in Yoav Gilad's lab. He earned his MS and PhD degrees at Duke University, where he was advised by Fan Wang and Scott Schmidler, and collaborated closely with Jerry Reiter. He was trained as both a statistician and a biologist.
 * Kalins Banerjee, Postdoc (09/2021 - Present).
 * Jade Wang, Postdoc (03/2022 - Present).
 * Chao Ning, Postdoc (03/2023 - Present).
