@@ -79,7 +79,7 @@ ECCO is computationally efficient approach for determining the optimal number of
 ELLA is a statistical method for modeling the subcellular localization of mRNAs and detecting genes that display spatial variation within cells in high-resolution spatial transcriptomics. ELLA utilizes a nonhomogeneous Poisson process to model the spatial count data within cells, creates a unified cellular coordinate system to anchor diverse shapes and morphologies across cells, and relies on an expression intensity function to capture the subcellular spatial distribution of mRNAs. ELLA can be applied to an arbitrary number of cells and detect a wide variety of subcellular localization patterns across diverse spatial transcriptomic techniques, while producing effective control of type I error and yielding high statistical power. With a computationally efficient algorithm, ELLA is scalable to tens of thousands of genes across tens of thousands of cells.
 
 * The package is currently available on <a href="https://github.com/jadexq/ELLA/tree/main">github</a> with a tutorail available <a href="https://jadexq.github.io/ELLA/">here</a>.
-* Citation: Jade Xiaoqing Wang, and Xiang Zhou (2024). ELLA: Modeling spatial variation of gene expression within cells in high-resolution spatial transcriptomics.
+* Citation: Jade Xiaoqing Wang, and Xiang Zhou (2024). ELLA: Modeling subcellular spatial variation of gene expression within cells in high-resolution spatial transcriptomics.
 * Contact <a href="mailto:jadewang@umich.edu">Jade Wang</a> with any questions, comments, or bugs reports.
 
 
