@@ -66,20 +66,21 @@ DPR is a software package implementing the latent Dirichlet process regression m
 
 ## Effect size Correlation for COnfounding determination (ECCO)
 
+ECCO is computationally efficient approach for determining the optimal number of PEER factors for eQTL mapping analysis. ECCO requires the availability of an outcome phenotype in addition to the usual genotype and expression data required for eQTL mapping studies. With the outcome phenotype, ECCO estimates the gene expression effect on the phenotype for one gene at a time through two different analyses: a differential expression regression analysis and a Mendelian randomization (MR) analysis. By computing and examining the correlation between the estimated effect sizes from the two different analyses, ECCO can subsequently determine the optimal number of PEER factors for eQTL mapping analysis.
+
+* The package, along with its GTEx eQTL mapping results, is currently available on <a href="https://github.com/fanyue322/ECCO">github</a>.
+* Scripts to reproduce all results in the manuscript are available at <a href="https://github.com/fanyue322/ECCOreproduce">here</a>.
+* Citation: Fan Yue, Huanhuan Zhu, Yanyi Song, Qinke Peng and Xiang Zhou (2021). Efficient and effective control of confounding in eQTL mapping studies through joint differential expression and Mendelian randomization analyses. Bioinformatics. 37: 296–302.
+* Contact <a href="mailto:xafanyue@stu.xjtu.edu.cn">Yue Fan</a> with any questions, comments, or bugs reports.
+
+
+## subcelluar Expression LocaLization Analysis (ELLA)
+
 ELLA is a statistical method for modeling the subcellular localization of mRNAs and detecting genes that display spatial variation within cells in high-resolution spatial transcriptomics. ELLA utilizes a nonhomogeneous Poisson process to model the spatial count data within cells, creates a unified cellular coordinate system to anchor diverse shapes and morphologies across cells, and relies on an expression intensity function to capture the subcellular spatial distribution of mRNAs. ELLA can be applied to an arbitrary number of cells and detect a wide variety of subcellular localization patterns across diverse spatial transcriptomic techniques, while producing effective control of type I error and yielding high statistical power. With a computationally efficient algorithm, ELLA is scalable to tens of thousands of genes across tens of thousands of cells.
 
 * The package is currently available on <a href="https://github.com/jadexq/ELLA/tree/main">github</a> with a tutorail available <a href="https://jadexq.github.io/ELLA/">here</a>.
 * Citation: Jade Xiaoqing Wang, and Xiang Zhou (2024). ELLA: Modeling spatial variation of gene expression within cells in high-resolution spatial transcriptomics.
 * Contact <a href="mailto:jadewang@umich.edu">Jade Wang</a> with any questions, comments, or bugs reports.
-
-
-## subcellular Expression LocaLization Analysis  (ELLA)
-
-CELINA is the software that can be used to systematically identify cell type specific spatially variable genes (ct-SVGs) across a variety of spatial transcriptomics platforms. Celina examines one gene at a time and uses a spatially varying coefficient model to explicitly and accurately model gene’s spatial expression pattern in relation to the cell type distribution across tissue locations. As a result, Celina provides effective type I error control and high statistical power in both single cell and spot resolution spatial transcriptomics.
-
-* The software is currently available on the <a href="https://lulushang.org/Celina_Tutorial/index.html">website</a> with source code available on <a href="https://github.com/pekjoonwu/CELINA">github</a>.
-* Citation: Lulu Shang, Peijun Wu, and Xiang Zhou (2024). Statistical identification of cell type-specific spatially variable genes in spatial transcriptomics.
-* Contact <a href="mailto:lshang@mdanderson.org">Lulu Shang</a> or <a href="mailto:pekjoonw@umich.edu">Peijun Wu</a> with any questions, comments, or bugs reports.
 
 
 ## Fine-mApping of causal genes for BInary Outcomes (FABIO)
