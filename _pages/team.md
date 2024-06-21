@@ -48,12 +48,12 @@ author_profile: true
 ### Visiting Students
 
 * Yue Fan, Visiting PhD Student (11/2017-11/2019), now an Assistant Professor at Xi'an Jiaotong University.
-* Lu Wang, Visiting PhD Student (08/2018-09/2019), now finishing up PhD at Shandong University.
+* Lu Wang, Visiting PhD Student (08/2018-09/2019), now an Assistant Professor at Xi'an Hospital.
 * Xingjie Hao, Visiting PhD Student (02/2016-01/2018), now an Associate Professor at Huazhong University of Science and Technology.
 
 ### Visiting Scholars
 
-* Jin Zhang, Visiting Scholar (04/2018-04/2019), now an Associate Professor at Nanjing Agricultural University.
+* Jin Zhang, Visiting Scholar (04/2018-04/2019), now a Professor at Nanjing Agricultural University.
 
 
 
