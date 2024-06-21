@@ -15,7 +15,6 @@ author_profile: true
 * <a href="https://marvinquiet.github.io/">Wenjing Ma</a>, Postdoc (07/2023 - Present).
 * Lu Liu, Postdoc (07/2023 - Present).
 * Siyu Hou, Postdoc (08/2023 - Present).
-* Boran Gao, PhD Student of Biostatistics (05/2017 - Present), admitted to the PhD program in 2017.
 * Chang Xu, PhD Student of Biostatistics (04/2019 - Present), admitted to the PhD program in 2019.
 * Peijun Wu, PhD Student of Biostatistics (05/2019 - Present), admitted to the PhD program in 2020.
 * Zheng Li, PhD Student of Biostatistics (07/2019 - Present), admitted to the PhD program in 2020.
@@ -27,6 +26,7 @@ author_profile: true
 
 ### Students
 
+* Boran Gao, PhD Student of Biostatistics (05/2017 - 08/2024), admitted in 2017, now an Assistant Professor of Statistics at Purdue University.
 * Lulu Shang, PhD Student (05/2017 - 08/2023), admitted in 2018, now an Assistant Professor of Biostatistics at MD Anderson.
 * Ying Ma, PhD Student (09/2017 - 07/2023), admitted in 2018, now an Assistant Professor of Biostatistics at Brown University.
 * Jiaqiang Zhu, PhD Student (05/2016 - 06/2022), admitted in 2017, now a Senior Biostatistician at Vertex Pharmaceuticals.
@@ -36,7 +36,7 @@ author_profile: true
 
 ### Postdocs
 
-* Fred Boehm, Postdoc (06/2021-05/2023), now a Postdoc at University of Michigan working on joint projects.
+* Fred Boehm, Postdoc (06/2021-05/2023), now an Assistant Professor of Statistics at University of South Dakota.
 * Huanhuan Zhu, Postdoc (07/2018 - 09/2020), now an Associate Research Fellow in the Precision Health Research Institute at BGI.
 * Qidi Feng, Postdoc (06/2018-05/2020), now a Postdoc at Harvard University.
 * Sheng Yang, Postdoc (02/2018 - 02/2020). now an Associate Professor at Nanjing Medical University.
