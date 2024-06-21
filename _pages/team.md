@@ -20,7 +20,7 @@ author_profile: true
 * Zheng Li, PhD Student of Biostatistics (07/2019 - Present), admitted to the PhD program in 2020.
 * Peiyao Zhao, PhD Student of Biostatistics (10/2020 - Present), admitted to the PhD program in 2021.
 * Yanlin Tong, PhD Student of Biostatistics (05/2022 - Present), admitted to the PhD program in 2023.
-* Robert Langefeld, MS Student of Biostatistics (09/2022 - Present), Genome Science Training Program (GSTP), admitted to the MS program in 2022 and PhD program in 2024.
+* Robert Langefeld, PhD Student of Biostatistics (09/2022 - Present), Genome Science Training Program (GSTP), admitted to the MS program in 2022 and PhD program in 2024.
 
 ## Alumni
 
