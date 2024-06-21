@@ -36,7 +36,7 @@ author_profile: true
 
 ### Postdocs
 
-* Fred Boehm, Postdoc (06/2021-05/2023), now an Assistant Professor of Statistics at South Dakota State University.
+* Fred Boehm, Postdoc (06/2021-05/2023), now an Assistant Professor of Statistics at University of South Dakota.
 * Huanhuan Zhu, Postdoc (07/2018 - 09/2020), now an Associate Research Fellow in the Precision Health Research Institute at BGI.
 * Qidi Feng, Postdoc (06/2018-05/2020), now a Postdoc at Harvard University.
 * Sheng Yang, Postdoc (02/2018 - 02/2020). now an Associate Professor at Nanjing Medical University.
