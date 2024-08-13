@@ -15,18 +15,18 @@ author_profile: true
 * <a href="https://marvinquiet.github.io/">Wenjing Ma</a>, Postdoc (07/2023 - Present).
 * Lu Liu, Postdoc (07/2023 - Present).
 * Siyu Hou, Postdoc (08/2023 - Present).
-* Chang Xu, PhD Student of Biostatistics (04/2019 - Present), admitted to the PhD program in 2019.
-* Peijun Wu, PhD Student of Biostatistics (05/2019 - Present), admitted to the PhD program in 2020.
-* Zheng Li, PhD Student of Biostatistics (07/2019 - Present), admitted to the PhD program in 2020.
-* Peiyao Zhao, PhD Student of Biostatistics (10/2020 - Present), admitted to the PhD program in 2021.
-* Yanlin Tong, PhD Student of Biostatistics (05/2022 - Present), admitted to the PhD program in 2023.
-* Robert Langefeld, PhD Student of Biostatistics (09/2022 - Present), Genome Science Training Program (GSTP), admitted to the PhD program in 2024.
+* Chang Xu, PhD Student (04/2019 - Present), admitted to the PhD program in 2019.
+* Peijun Wu, PhD Student (05/2019 - Present), admitted to the PhD program in 2020.
+* Zheng Li, PhD Student (07/2019 - Present), admitted to the PhD program in 2020.
+* Peiyao Zhao, PhD Student (10/2020 - Present), admitted to the PhD program in 2021.
+* Yanlin Tong, PhD Student (05/2022 - Present), admitted to the PhD program in 2023.
+* Robert Langefeld, PhD Student (09/2022 - Present), Genome Science Training Program (GSTP), admitted to the PhD program in 2024.
 
 ## Alumni
 
 ### Students
 
-* Boran Gao, PhD Student of Biostatistics (05/2017 - 08/2024), admitted in 2017, now an Assistant Professor of Statistics at Purdue University.
+* Boran Gao, PhD Student (05/2017 - 08/2024), admitted in 2017, now an Assistant Professor of Statistics at Purdue University.
 * Lulu Shang, PhD Student (05/2017 - 08/2023), admitted in 2018, now an Assistant Professor of Biostatistics at MD Anderson.
 * Ying Ma, PhD Student (09/2017 - 07/2023), admitted in 2018, now an Assistant Professor of Biostatistics at Brown University.
 * Jiaqiang Zhu, PhD Student (05/2016 - 06/2022), admitted in 2017, now a Senior Biostatistician at Vertex Pharmaceuticals.
