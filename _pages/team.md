@@ -15,7 +15,6 @@ author_profile: true
 * <a href="https://marvinquiet.github.io/">Wenjing Ma</a>, Postdoc (07/2023 - Present).
 * Lu Liu, Postdoc (07/2023 - Present).
 * Siyu Hou, Postdoc (08/2023 - Present).
-* Chang Xu, PhD Student (04/2019 - Present), admitted to the PhD program in 2019.
 * Peijun Wu, PhD Student (05/2019 - Present), admitted to the PhD program in 2020.
 * Zheng Li, PhD Student (07/2019 - Present), admitted to the PhD program in 2020.
 * Peiyao Zhao, PhD Student (10/2020 - Present), admitted to the PhD program in 2021.
@@ -26,6 +25,7 @@ author_profile: true
 
 ### Students
 
+* Chang Xu, PhD Student (04/2019 - 09/2024), admitted in 2019, now a Biostatistician at AbbVie.
 * Boran Gao, PhD Student (05/2017 - 08/2024), admitted in 2017, now an Assistant Professor of Statistics at Purdue University.
 * Lulu Shang, PhD Student (05/2017 - 08/2023), admitted in 2018, now an Assistant Professor of Biostatistics at MD Anderson.
 * Ying Ma, PhD Student (09/2017 - 07/2023), admitted in 2018, now an Assistant Professor of Biostatistics at Brown University.
