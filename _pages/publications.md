@@ -38,6 +38,8 @@ The full list of publications is available on <u><a href="https://scholar.google
 ## 2021
 
 * Jiaqiang Zhu, Shiquan Sun, and Xiang Zhou (2021). SPARK-X: Non-parametric modeling enables scalable and robust detection of spatial expression patterns for large spatial transcriptomic studies. Genome Biology. 22: 184.
+* Yanyi Song, Xiang Zhou#, Jian Kang, Max T. Aung, Min Zhang, Wei Zhao, Belinda L. Needham, Sharon L. R. Kardia, Yongmei Liu, John D. Meeker, Jennifer A. Smith, and Bhramar Mukherjee# (2021). Bayesian sparse mediation analysis with targeted penalization of natural indirect effects. J R Stat Soc Ser C. 70: 1391–1412.
+* Yanyi Song, Xiang Zhou#, Jian Kang, Max T Aung, Min Zhang, Wei Zhao, Belinda L Needham, Sharon L R Kardia, Yongmei Liu, John D Meeker, Jennifer A Smith, and Bhramar Mukherjee# (2021). Bayesian hierarchical models for high-dimensional mediation analysis with coordinated selection of correlated mediators. Statistics in Medicine. 40: 6038-6056.
 * Lu Wang, Boran Gao, Yue Fan, Fuzhong Xue, and Xiang Zhou (2021). Mendelian randomization under the omnigenic architecture. Briefings in Bioinformatics. 22: bbab322.
 * Ying Ma, and Xiang Zhou (2021). Genetic prediction of complex traits with polygenic scores: A statistical review. Trends in Genetics. 37: 995-1011. 
 * Ping Zeng, Zhonghe Shao, and Xiang Zhou (2021). Statistical methods for mediation analysis in the era of high-throughput genomics: Current successes and future challenges. Computational and Structural Biotechnology Journal. 19: 3209-3224.
