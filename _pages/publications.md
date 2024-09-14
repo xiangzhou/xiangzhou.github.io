@@ -29,6 +29,7 @@ The full list of publications is available on <u><a href="https://scholar.google
 * Zheng Li, and Xiang Zhou (2022). BASS: Multi-scale and multi-sample analysis enables accurate cell type clustering and spatial domain detection in spatial transcriptomic studies. Genome Biology. 23: 168.
 * Peiyao Zhao, Jiaqiang Zhu, Ying Ma, and Xiang Zhou (2022). Modeling zero inflation is not necessary for spatial transcriptomics. Genome Biology. 23: 118.
 * Fred Boehm, and Xiang Zhou (2022). Statistical methods for Mendelian randomization in genome-wide association studies: A review. Computational and Structural Biotechnology Journal. 20: 2338-2351.
+* Satwik Acharyya, Xiang Zhou#, and Veerabhadran Baladandayuthapani# (2022). SpaceX: gene co-expression network estimation for spatial transcriptomics. Bioinformatics. 38: 5033–5041. 
 * Ying Ma, and Xiang Zhou (2022). Spatially informed cell type deconvolution for spatial transcriptomics. Nature Biotechnology. 40: 1349–1359.
 * Zheng Li, Wei Zhao, Lulu Shang, Thomas H Mosley, Sharon LR Kardia, Jennifer A Smith, and Xiang Zhou (2022). METRO: Multi-ancestry transcriptome-wide association studies for powerful gene-trait association detection. American Journal of Human Genetics. 109: 783-801.
 * Sheng Yang, and Xiang Zhou (2022). <a href="http://www.pgsfusion.net/#/">PGS-Server</a>: Accuracy, robustness, and transferability of polygenic score methods for biobank scale studies. Briefings in Bioinformatics. 22: bbac039.
