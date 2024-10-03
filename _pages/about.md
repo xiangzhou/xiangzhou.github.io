@@ -14,7 +14,7 @@ Key methodological areas include mixed-effects models, spatial statistics, causa
 
 Key application areas include genome-wide association studies (GWAS), transcriptome wide association studies (TWAS), molecular quantitative trait loci (QTL) mapping studies such as expression QTL (eQTL) and methylation QTL (mQTL) mapping studies, and various functional genomic studies such as chromatin immunoprecipitation sequencing (ChIPseq), bulk RNA sequencing (RNAseq), single cell RNAseq (scRNAseq), bisulfite sequencing (BSseq), and, more recently, spatial omics studies.
 
-By developing novel analytic methods for state-of-the-art genetic and genomic techniques, my goal is to extract key biological insights from these data, advancing our understanding of how genomic variation influences biological functions and contributes to phenotypic variation in various human diseases and disease related complex traits. 
+By developing novel analytic methods for state-of-the-art genetic and genomic techniques, our goal is to extract key biological insights from these data, advancing our understanding of how genomic variation influences biological functions and contributes to phenotypic variation in various human diseases and disease related complex traits. 
 
 $${\color{blue}We have an open postdoctoral fellow position. Please reach out if you are interested in joining our team.}$$
 
