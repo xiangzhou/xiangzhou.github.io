@@ -12,6 +12,7 @@ The full list of publications is available on <u><a href="https://scholar.google
 
 ## 2024
 
+* Lulu Shang\*, Peijun Wu\*, and Xiang Zhou (2024). Statistical identification of cell type-specific spatially variable genes in spatial transcriptomics. Nature Communications. in press.
 * Ying Ma, and Xiang Zhou (2024). Accurate and efficient integrative reference-informed spatial domain detection for spatial transcriptomics. Nature Methods. 21: 1231-1244.
 * Sheng Yang, and Xiang Zhou (2024). <a href="https://spatialtranscriptomicsanalysis.com">SRT-Server</a>: Powering the analysis of spatial transcriptomic data. Genome Medicine. 16: 18.
 * Lu Liu, Ran Yan, Ping Guo, Jiadong Ji, Weiming Gong, Fuzhong Xue, Zhongshang Yuan, and Xiang Zhou (2024). Conditional transcriptome-wide association study for fine-mapping candidate causal genes. Nature Genetics. 56: 348–356.
