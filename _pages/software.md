@@ -31,7 +31,7 @@ CARD is the software that leverages cell type specific expression information fr
 CELINA is the software that can be used to systematically identify cell type specific spatially variable genes (ct-SVGs) across a variety of spatial transcriptomics platforms. Celina examines one gene at a time and uses a spatially varying coefficient model to explicitly and accurately model gene’s spatial expression pattern in relation to the cell type distribution across tissue locations. As a result, Celina provides effective type I error control and high statistical power in both single cell and spot resolution spatial transcriptomics.
 
 * The software is currently available on the <a href="https://lulushang.org/Celina_Tutorial/index.html">website</a> with source code available on <a href="https://github.com/pekjoonwu/CELINA">github</a>.
-* Citation: Lulu Shang, Peijun Wu, and Xiang Zhou (2024). Statistical identification of cell type-specific spatially variable genes in spatial transcriptomics.
+* Citation: Lulu Shang, Peijun Wu, and Xiang Zhou (2025). Statistical identification of cell type-specific spatially variable genes in spatial transcriptomics. Nature Communications. in press.
 * Contact <a href="mailto:lshang@mdanderson.org">Lulu Shang</a> or <a href="mailto:pekjoonw@umich.edu">Peijun Wu</a> with any questions, comments, or bugs reports.
 
 
@@ -88,8 +88,18 @@ ELLA is a statistical method for modeling the subcellular localization of mRNAs 
 FABIO is a transcriptome-wide association study (TWAS) fine-mapping method specifically designed for binary traits that is capable of modeling all genes jointly on an entire chromosome. FABIO relies on a probit model to directly relate multiple GReX to binary outcome. Additionally, it jointly models all genes located on a chromosome to account for the correlation among GReX arising from cis-SNP LD and expression correlation across genomic regions. As a result, FABIO effectively controls false discoveries while offering substantial power gains over existing TWAS fine-mapping approaches.
 
 * The software is currently available on <a href="https://github.com/superggbond/FABIO/">github</a>.
-* Citation: Haihan Zhang, Kevin He, Lam C. Tsoi, and Xiang Zhou (2023). FABIO: A TWAS fine-mapping method for prioritizing causal genes in binary traits.
+* Citation: Haihan Zhang, Kevin He, Lam C. Tsoi, and Xiang Zhou (2024). FABIO: A TWAS fine-mapping method for prioritizing causal genes in binary traits. PLOS Genetics. e1011503.
 * Contact <a href="mailto:hhzhang@umich.edu">Haihan Zhang</a> with any questions, comments, or bugs reports.
+
+
+## Fast Cell-Cell Communication analysis (FastCCC)
+
+FastCCC is a highly scalable, permutation-free statistical toolkit tailored to identify critical cell-cell communications (CCCs) in the form of ligand-receptor interactions (LRIs) and uncover novel biological insights in single-cell transcriptomics studies. FastCCC presents an analytic solution for computing p-values in CCC analysis, enabling scalable analysis without the need for computationally intensive permutations. It introduces a modular communication score computation framework that calculates various communication scores through a range of algebraic operations between ligand and receptor expression levels, capturing a broad spectrum of CCC patterns and ensuring robust analysis. Additionally, FastCCC not only enables the analysis of large-scale datasets containing millions of cells, but also introduces reference-based CCC analysis, where large-scale datasets are treated as reference panels to substantially improve CCC analysis on user-collected datasets. 
+
+* The software is currently available on <a href="https://github.com/Svvord/FastCCC">github</a>.
+* Citation: Siyu Hou, Wenjing Ma, and Xiang Zhou (2025). FastCCC: A permutation-free framework for scalable, robust, and reference-based cell-cell communication analysis in single cell transcriptomics studies.
+* Contact <a href="mailto:siyuh@umich.edu">Siyu Hou</a> with any questions, comments, or bugs reports.
+
 
 
 ## Genetic and Environmental Covariance estimation by composite-liKelihood Optimization (GECKO)
@@ -130,7 +140,7 @@ association studies. Annals of Applied Statistics. 11(4): 2027-2051.
 GIFT is a Gene-based Integrative Fine-mapping for performing conditional TWAS analysis. GIFT examines one genomic region at a time, jointly models the GReX of all genes residing in the focal region, and carries out TWAS conditional analysis in a maximum likelihood framework. In the process, GIFT explicitly models the gene expression correlation and cis-SNP LD across different genes in the region and accounts for the uncertainty in the constructed GReX. As a result, GIFT provides effective type I error control, refines marginal TWAS associations into a much smaller set of putatively causal associations, and yields high statistical power with reduced false discoveries.
 
 * The software is currently available on <a href="https://yuanzhongshang.github.io/GIFT/">github</a>.
-* Citation: Lu Liu, Ran Yan, Ping Guo, Jiadong Ji, Weiming Gong, Fuzhong Xue, Zhongshang Yuan, and Xiang Zhou (2023). Conditional transcriptome-wide association study for fine-mapping causal genes. Nature Genetics. in press.
+* Citation: Lu Liu, Ran Yan, Ping Guo, Jiadong Ji, Weiming Gong, Fuzhong Xue, Zhongshang Yuan, and Xiang Zhou (2023). Conditional transcriptome-wide association study for fine-mapping causal genes. Nature Genetics. 56: 348–356.
 * Contact <a href="mailto:luliuu@umich.edu">Lu Liu</a> with any questions, comments, or bugs reports.
 
 
@@ -169,7 +179,7 @@ iMAP performs integrative mapping of pleiotropic association and functional anno
 IRIS (Integrative and Reference-Informed tissue Segmentation) is a method for spatial domain detection in spatially resolved transcriptomics (SRT). IRIS models multiple tissue slices jointly and segments each tissue slice into multiple spatial domains. IRIS also accounts for the spatial correlation structure commonly observed across locations on each tissue slice and explicitly models the similarity in cell type composition underling similar spatial domains across tissue slices. A unique feature of IRIS is its ability to incorporate a scRNA-seq data to serve as the reference for domain detection, which allows IRIS to seamlessly integrate the cell type specific transcriptomic profiles from the scRNA-seq reference to the SRT dataset to substantially improve the accuracy in spatial domain detection. As a result, IRIS is accurate, scalable, and robust for spatial domain detection across a range of SRT technologies with distinct spatial resolutions.
 
 * The software is currently available on <a href="https://github.com/YingMa0107/IRIS/">github</a>, with a tutorial available <a href="https://yingma0107.github.io/IRIS/">here</a>.
-* Citation: Ying Ma, and Xiang Zhou (2024). Integrative and reference-informed spatial domain detection for spatial transcriptomics. Nature Methods.
+* Citation: Ying Ma, and Xiang Zhou (2024). Integrative and reference-informed spatial domain detection for spatial transcriptomics. Nature Methods. 21: 1231-1244.
 * Contact <a href="mailto:ying_ma@brown.edu">Ying Ma</a> with any questions, comments, or bugs reports.
 
 
@@ -203,7 +213,7 @@ MAPIT is the software implementing the new strategy for mapping epistasis: inste
 MESuSiE is a method for multi-ancestry fine-mapping analysis in genome-wide association studies. MESuSiE explicitly models both shared and ancestry-specific causal variants across ancestries, properly accounts for the diverse LD pattern observed in different ancestries, relies on GWAS marginal summary statistics as input, and extends the recent scalable variational inference algorithm SuSiE, which was developed for ancestry-specific fine-mapping, towards scalable multi-ancestry fine-mapping.
 
 * The software is currently available on <a href="https://github.com/borangao/MESuSiE">github</a>.
-* Citation: Boran Gao, and Xiang Zhou (2022). MESuSiE: Multi-ancestry fine-mapping for scalable and powerful discovery of shared and ancestry-specific putative causal variants in genome-wide association studies. Nature Genetics. in press.
+* Citation: Boran Gao, and Xiang Zhou (2022). MESuSiE: Multi-ancestry fine-mapping for scalable and powerful discovery of shared and ancestry-specific putative causal variants in genome-wide association studies. Nature Genetics. 56: 170-179.
 * Contact <a href="mailto:borang@umich.edu">Boran Gao</a> with any questions, comments, or bugs reports.
 
 
