@@ -96,7 +96,7 @@ FABIO is a transcriptome-wide association study (TWAS) fine-mapping method speci
 
 FastCCC is a highly scalable, permutation-free statistical toolkit tailored to identify critical cell-cell communications (CCCs) in the form of ligand-receptor interactions (LRIs) and uncover novel biological insights in single-cell transcriptomics studies. FastCCC presents an analytic solution for computing p-values in CCC analysis, enabling scalable analysis without the need for computationally intensive permutations. It introduces a modular communication score computation framework that calculates various communication scores through a range of algebraic operations between ligand and receptor expression levels, capturing a broad spectrum of CCC patterns and ensuring robust analysis. Additionally, FastCCC not only enables the analysis of large-scale datasets containing millions of cells, but also introduces reference-based CCC analysis, where large-scale datasets are treated as reference panels to substantially improve CCC analysis on user-collected datasets. 
 
-* The software is currently available on <a href="https://github.com/Svvord/FastCCC">github</a>.
+* The software is currently available on the <a href="https://svvord.github.io/FastCCC/">website</a>, with source code available on <a href="https://github.com/Svvord/FastCCC">github</a>.
 * Citation: Siyu Hou, Wenjing Ma, and Xiang Zhou (2025). FastCCC: A permutation-free framework for scalable, robust, and reference-based cell-cell communication analysis in single cell transcriptomics studies.
 * Contact <a href="mailto:siyuh@umich.edu">Siyu Hou</a> with any questions, comments, or bugs reports.
 
