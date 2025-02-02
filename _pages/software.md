@@ -102,6 +102,16 @@ FastCCC is a highly scalable, permutation-free statistical toolkit tailored to i
 
 
 
+## Fast Genotype-Environment interaction analysis (fastGxE)
+
+fastGxE is a scalable and effective genome-wide multi-environment genotype-environment interaction (GxE) method designed to identify genetic variants that interact with one or multiple environmental factors. fastGxE controls for both polygenic effects and polygenic interaction effects, is robust to the number of environmental factors contributing to GxE interactions, and ensures scalability for genome-wide analysis in large biobank studies. fastGxE is accompanied with the algorithm mmSuSiE, which is an extension of SuSiE specifically designed for mixed-model analysis and aims to identify the environmental factors driving the detected GxE interactions by fastGxE. 
+
+* The software is currently available on <a href="https://chaoning.github.io/fastGxE">github</a>.
+* Citation: Chao Ning, and Xiang Zhou (2025). fastGxE: Powering genome-wide detection of genotype-environment interactions in biobank studies.
+* Contact <a href="mailto:chaon@umich.edu">Chao Ning</a> with any questions, comments, or bugs reports.
+
+
+
 ## Genetic and Environmental Covariance estimation by composite-liKelihood Optimization (GECKO)
 
 GECKO is a computational method for estimating both genetic and environmental covariances using GWAS summary statistics. GECKO improves estimation accuracy of method of moments algorithms while keeping computation in check. GECKO relies on composite likelihood, is scalable computationally, uses only on summary statistics, provides accurate genetic and environmental covariance estimates across a range of scenarios, and accommodates SNP annotation stratified covariance estimation.
