@@ -307,6 +307,15 @@ SMART is a software implementing the Scalable Multiple Annotation integration fo
 * Contact <a href="mailto:xingjiegenetics@qq.com">Xingjie Hao</a> with any questions, comments, or bugs reports.
 
 
+## Spatial Domain Transition detection (SpaDOT)
+
+SpaDOT a deep-learning-based computational method designed to accurately identify spatial domains and infer their transitions and relationships across time points in spatiotemporal transcriptomics data. SpaDOT employs a variational autoencoder (VAE) framework integrated with a Gaussian Process prior and graph neighbor information to capture the low-dimensional manifold underlying the data, incorporating hidden clustering variables to characterize distinct spatial domains. In the process, SpaDOT explicitly accounts for both global and local spatial correlation structures among spatial locations within the tissue at each time point and leverages optimal transport (OT) analysis to infer the relationships between spatial domains across time points, thereby enhancing accuracy and interpretation.
+
+* The software is currently available on <a href="https://github.com/marvinquiet/SpaDOT">github</a>, with a tutorial available <a href="https://marvinquiet.github.io/SpaDOT/">here</a>.
+* Citation: Wenjing Ma, Siyu Hou, Lulu Shang, Jiaying Lu, and Xiang Zhou (2025). Optimal transport modeling uncovers spatial domain dynamics in spatiotemporal transcriptomics studies. 
+* Contact <a href="mailto:wenjinma@umich.edu">Wenjing Ma</a> with any questions, comments, or bugs reports.
+
+
 ## Spatiall aware probabilistic Principal Component Analysis (SpatialPCA)
 
 SpatialPCA is the software that perform spatially aware dimension reduction for spatial transcriptomics. SpatialPCA explicitly models the spatial correlation structure across tissue locations to preserve the neighboring similarity of the original data in the low dimensional manifold. The low dimensional components obtained from SpatialPCA thus contain valuable spatial correlation information and can be directly paired with existing computational tools developed in scRNA-seq for effective and novel downstream analysis in spatial transcriptomics. In particular, the low-dimensional components from SpatialPCA can be paired with scRNA-seq clustering methods to enable effective de novo tissue domain detection and can be paired with scRNA-seq trajectory inference methods to enable effective developmental trajectory inference on the tissue. Because of the data generative nature of SpatialPCA and its explicit modeling of spatial correlation, it can also be used to impute the low dimensional components on new and unmeasured spatial locations, facilitating the construction of a refined spatial map with a resolution much higher than that measured in the original study.
