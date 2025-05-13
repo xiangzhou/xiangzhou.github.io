@@ -297,6 +297,15 @@ PredInterval is designed to quantify phenotype prediction uncertainty through th
 * Contact <a href="mailto:xuchang@umich.edu">Chang Xu</a> with any questions, comments, or bugs reports.
 
 
+## Sex-dimorphic mapping with the sum of the single effects model (sdSuSiE)
+
+sdSuSiE is a software designed for powerful and scalable sex-dimorphic fine-mapping. sdSuSiE explicitly models sex differences in genetic effects while properly accounting for correlations between different types of genetic effects induced by LD and sample imbalance between sexes. It uses summary statistics from sex-stratified GWASs as inputs and extends the recent scalable variational inference algorithm SuSiE to fine-map sex-dimorphic effects. As a result, sdSuSiE achieves well-calibrated credible set coverage and posterior inclusion probabilities (PIPs), demonstrating high statistical power with controlled false discovery rates, all while maintaining computational efficiency. 
+
+* The software is available on <a href="https://yuanzhongshang.github.io/sdSuSiE/">github</a>.
+* Citation: Lu Liu, Zhongshang Yuan, and Xiang Zhou (2025). Sex-dimorphic fine-mapping with summary statistics in genome-wide association studies. 
+* Contact <a href="mailto:luliuu@umich.edu">Lu Liu</a> with any questions, comments, or bugs reports.
+
+
 ## Scalable Multiple Annotation integration for trait-Relevant Tissue identification (SMART)
 
 SMART is a software implementing the Scalable Multiple Annotation integration for trait-Relevant Tissue identification and usage. It extends the commonly used linear mixed model to relate variant effect sizes to variant annotations by introducing variant specific variance components that are functions of multiple annotations. It quantifies and evaluates the joint contribution of multiple annotations to genetic effect sizes by performing parameter inference using the widely used generalized estimation equation (GEE). The GEE-based algorithm in SMART allows for the use of summary statistics and naturally accounts for the correlation among summary statistics due to linkage disequilibrium. With GEE statistics, SMART applies mixture models to classify tissues into two categories—those that are relevant to the trait and those that are not—thus formulating the task of identifying trait-relevant tissues into a classification problem. 
