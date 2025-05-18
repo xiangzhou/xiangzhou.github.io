@@ -193,6 +193,16 @@ IRIS (Integrative and Reference-Informed tissue Segmentation) is a method for sp
 * Contact <a href="mailto:ying_ma@brown.edu">Ying Ma</a> with any questions, comments, or bugs reports.
 
 
+## Local genetic correlation estimation using summary statistics (Logica)
+
+Logica (LOcal GenetIc Correlation across Ancestries) is a method specifically designed to estimate local genetic correlations across ancestries. Logica employs a bivariate linear mixed model that explicitly accounts for diverse LD patterns across ancestries, operates on GWAS summary statistics, and utilizes a maximum likelihood framework for robust inference. Logica enhances the accuracy of MoM estimates, produces well-controlled false discovery rates, and demonstrates greater power in detecting local genetically correlated regions. An important byproduct of Logica is its reformulation of a joint heritability test across ancestries, which explicitly accounts for the composite natural of the null hypothesis, resulting in well-calibrated P-values. 
+
+* The software is currently available <a href="https://github.com/borangao/Logica">github</a>.
+* Citation: Boran Gao, and Xiang Zhou (2025). Logica: A likelihood framework for cross-ancestry local genetic correlation estimation using summary statistics. 
+* Please contact <a href="mailto:gao824@purdue.edu">Boran Gao</a> with any questions, comments, or bug reports.
+
+
+
 ## Mixed model Association for Count data via data AUgmentation (MACAU)
 
 MACAU is the software implementing the Mixed model Association for Count data via data AUgmentation algorithm. It fits a binomial mixed model to perform differential methylation analysis for bisulfite sequencing studies. It fits a Poisson mixed model to perform differential expression analysis for RNA sequencing studies. It is computationally efficient for large scale sequencing studies and uses freely available open-source numerical libraries. 
