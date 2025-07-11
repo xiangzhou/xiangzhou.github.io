@@ -8,7 +8,7 @@ author_profile: true
 
 ## Current Members
 
-* Xiang Zhou, Professor in the Department of Biostatistics at the University of Michigan. Prior to joining UM, he was a William H. Kruskal Instructor in the Department of Statistics at the University of Chicago. He completed his postdoctoral training in Matthew Stephens' lab in the Department of Human Genetics and Department of Statistics at the University of Chicago, where he also collaborated closely with researchers in Yoav Gilad's lab. He earned his MS and PhD degrees at Duke University, where he was advised by Fan Wang and Scott Schmidler, and collaborated closely with Jerry Reiter. He was trained as both a statistician and a biologist.
+* Xiang Zhou, Professor in the Department of Statistics and Data Science at Yale University. He earned a BS in Biology from Peking University in 2004, followed by an MS in Statistics (2009) and a PhD in Neurobiology (2010) from Duke University. He completed postdoctoral training in the Department of Human Genetics at the University of Chicago (2010–2013), where he later served as the Williams H. Kruskal Instructor in the Department of Statistics (2013–2014). Dr. Zhou joined the Department of Biostatistics at the University of Michigan as an Assistant Professor in 2014. He held the John G. Searle Assistant Professorship from 2018 to 2019 and was promoted to Associate Professor in 2019 and to full Professor in 2023. He served as Assistant Director of Precision Health (2022–2025) and, in 2025, became Assistant Director of Artificial Intelligence and Digital Health Innovation (AI&DHI). He joined Yale University in 2025.
 
 * <a href="https://marvinquiet.github.io/">Wenjing Ma</a>, Postdoc (07/2023 - Present).
 * Lu Liu, Postdoc (07/2023 - Present).
@@ -34,7 +34,7 @@ author_profile: true
 
 ### Postdocs
 
-* Jade Wang, Postdoc (03/2022 - 07/2025), now an Assistant Professor of Statistics at Texas A\&M University.
+* Jade Wang, Postdoc (03/2022 - 07/2025), now an Assistant Professor of Statistics at Texas A&M University.
 * Kalins Banerjee, Postdoc (09/2021 - 06/2025), now a Postdoc at University of Michigan.
 * Chao Ning, Postdoc (03/2023 - 05/2025), now an Associate Professor at Shandong Agriculture University.
 * Fred Boehm, Postdoc (06/2021-05/2023), now an Assistant Professor of Statistics at South Dakota State University.
