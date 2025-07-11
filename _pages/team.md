@@ -8,8 +8,7 @@ author_profile: true
 
 ## Current Members
 
-* Xiang Zhou, Professor in the Department of Statistics and Data Science at Yale University. He earned a BS in Biology from Peking University in 2004, followed by an MS in Statistics (2009) and a PhD in Neurobiology (2010) from Duke University. He completed postdoctoral training in the Department of Human Genetics at the University of Chicago (2010–2013), where he later served as the Williams H. Kruskal Instructor in the Department of Statistics (2013–2014). Dr. Zhou joined the Department of Biostatistics at the University of Michigan as an Assistant Professor in 2014. He held the John G. Searle Assistant Professorship from 2018 to 2019 and was promoted to Associate Professor in 2019 and to full Professor in 2023. He served as Assistant Director of Precision Health (2022–2025) and, in 2025, became Assistant Director of Artificial Intelligence and Digital Health Innovation (AI&DHI). He joined Yale University in 2025.
-
+* Xiang Zhou, Professor in the Department of Statistics and Data Science at Yale University. 
 * <a href="https://marvinquiet.github.io/">Wenjing Ma</a>, Postdoc (07/2023 - Present).
 * Lu Liu, Postdoc (07/2023 - Present).
 * Siyu Hou, Postdoc (08/2023 - Present).
