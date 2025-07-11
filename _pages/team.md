@@ -8,7 +8,7 @@ author_profile: true
 
 ## Current Members
 
-* Xiang Zhou, Professor in the Department of Statistics and Data Science at Yale University. 
+* Xiang Zhou, Professor of Statistics and Data Science at Yale University. 
 * <a href="https://marvinquiet.github.io/">Wenjing Ma</a>, Postdoc (07/2023 - Present).
 * Lu Liu, Postdoc (07/2023 - Present).
 * Siyu Hou, Postdoc (08/2023 - Present).
