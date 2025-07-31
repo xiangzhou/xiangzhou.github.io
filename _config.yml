@@ -85,8 +85,8 @@ author:
   avatar           : "Xiang2022.png"
   bio              : "Professor of Statistics and Data Science"
   location         : "New Haven"
-  employer         : "Yale University"
-  profile          : "<a href="https://statistics.yale.edu/people/xiang-zhou">Faculty Profile</a>"
+  employer         : "<a href="https://statistics.yale.edu/people/xiang-zhou">Yale University</a>"
+#  profile          : "<a href="https://statistics.yale.edu/people/xiang-zhou">Faculty Profile</a>"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=(Xiang+Zhou)+AND+(Yale+OR+Michigan+OR+Chicago+OR+Duke)"
   googlescholar    : "https://scholar.google.com/citations?user=h4_CmPoAAAAJ&hl=en"
   email            : 
