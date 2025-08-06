@@ -10,9 +10,13 @@ The full list of publications is available on <u><a href="https://scholar.google
 
 \* authors contributed equally; # co-corresponding authors
 
+## 2025
+
+* Zheng Li, and Xiang Zhou (2025). Towards improved fine-mapping of candidate causal variants. Nature Review Genetics. <a href="https://xiangzhou.github.io/files/2025_Li_Zhou_NRG.pdf">PDF</a>.
+* Lulu Shang\*, Peijun Wu\*, and Xiang Zhou (2025). Statistical identification of cell type-specific spatially variable genes in spatial transcriptomics. Nature Communications. 16: 1059.
+
 ## 2024
 
-* Lulu Shang\*, Peijun Wu\*, and Xiang Zhou (2024). Statistical identification of cell type-specific spatially variable genes in spatial transcriptomics. Nature Communications. in press.
 * Haihan Zhang, Kevin He, Lam C. Tsoi, and Xiang Zhou (2024). FABIO: A TWAS fine-mapping method for prioritizing causal genes in binary traits. PLOS Genetics. e1011503.
 * Peijun Wu, and Xiang Zhou (2024). Statistical and computational methods for enabling the clinical and translational application of spatial transcriptomics. Clinical and Translational Medicine. 14: e70119.
 * Ying Ma, and Xiang Zhou (2024). Accurate and efficient integrative reference-informed spatial domain detection for spatial transcriptomics. Nature Methods. 21: 1231-1244.
