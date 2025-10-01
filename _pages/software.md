@@ -10,9 +10,18 @@ author_profile: true
 
 BASS is a method for multi-scale and multi-sample analysis in spatial transcriptomics. BASS performs multi-scale transcriptomic analyses in the form of joint cell type clustering and spatial domain detection, with the two analytic tasks carried out simultaneously within a Bayesian hierarchical modeling framework. For both analyses, BASS properly accounts for the spatial correlation structure and seamlessly integrates gene expression information with spatial localization information to improve their performance. In addition, BASS is capable of multi-sample analysis that jointly models multiple tissue sections/samples, facilitating the integration of spatial transcriptomic data across tissue samples.
 
-* The package is currently available on <a href="https://github.com/zhengli09/BASS">github</a>.
+* The software package is currently available on <a href="https://github.com/zhengli09/BASS">github</a>.
 * Citation: Zheng Li, and Xiang Zhou (2022). Multi-scale and multi-sample analysis enables accurate cell type clustering and spatial domain detection in spatial transcriptomic studies. Genome Biology. 23: 168.
 * Contact <a href="mailto:zlisph@umich.edu">Zheng Li</a> with any questions, comments, or bugs reports.
+
+
+## CAsual relationship identificatioN using ONe sample instrumental variable model (Canon)
+
+Canon (CAsual relationship identificatioN using ONe sample instrumental variable model) is a one-sample IV analysis method specifically designed to systematically identify genes potentially causally influenced by perturbed target genes across different sc-CRISPR platforms. Canon examines one gene pair at a time, employs a probabilistic model to automatically select valid IVs among gRNAs, relies on a scalable sampling-based algorithm for calibrated p-values computation, while explicitly accounting for the correlation between exposure and outcome genes inherent to the one-sample design and directly modeling the off-target effects of gRNAs on the outcome genes. As a result, Canon provides effective type I error control and high power across different sc-CRISPR platforms. 
+
+* The software is currently available on <a href="https://github.com/pekjoonwu/Canon">github</a>.
+* Citation: Peijun Wu, and Xiang Zhou (2025). Canon: Causal inference of downstream genes in single cell CRISPR studies via instrumental variable analysis. 
+* Contact <a href="mailto:pekjoonw@umich.edu">Peijun Wu</a> with any questions, comments, or bugs reports.
 
 
 ## Conditional AutoRegressive model based Deconvolution (CARD)
@@ -97,7 +106,7 @@ FABIO is a transcriptome-wide association study (TWAS) fine-mapping method speci
 FastCCC is a highly scalable, permutation-free statistical toolkit tailored to identify critical cell-cell communications (CCCs) in the form of ligand-receptor interactions (LRIs) and uncover novel biological insights in single-cell transcriptomics studies. FastCCC presents an analytic solution for computing p-values in CCC analysis, enabling scalable analysis without the need for computationally intensive permutations. It introduces a modular communication score computation framework that calculates various communication scores through a range of algebraic operations between ligand and receptor expression levels, capturing a broad spectrum of CCC patterns and ensuring robust analysis. Additionally, FastCCC not only enables the analysis of large-scale datasets containing millions of cells, but also introduces reference-based CCC analysis, where large-scale datasets are treated as reference panels to substantially improve CCC analysis on user-collected datasets. 
 
 * The software is currently available on the <a href="https://svvord.github.io/FastCCC/">website</a>, with source code available on <a href="https://github.com/Svvord/FastCCC">github</a>.
-* Citation: Siyu Hou, Wenjing Ma, and Xiang Zhou (2025). FastCCC: A permutation-free framework for scalable, robust, and reference-based cell-cell communication analysis in single cell transcriptomics studies.
+* Citation: Siyu Hou, Wenjing Ma, and Xiang Zhou (2025). FastCCC: A permutation-free framework for scalable, robust, and reference-based cell-cell communication analysis in single cell transcriptomics studies. Nature Communications.
 * Contact <a href="mailto:siyuh@umich.edu">Siyu Hou</a> with any questions, comments, or bugs reports.
 
 
