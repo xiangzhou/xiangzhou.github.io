@@ -19,7 +19,7 @@ BASS is a method for multi-scale and multi-sample analysis in spatial transcript
 
 Canon (CAsual relationship identificatioN using ONe sample instrumental variable model) is a one-sample IV analysis method specifically designed to systematically identify genes potentially causally influenced by perturbed target genes across different sc-CRISPR platforms. Canon examines one gene pair at a time, employs a probabilistic model to automatically select valid IVs among gRNAs, relies on a scalable sampling-based algorithm for calibrated p-values computation, while explicitly accounting for the correlation between exposure and outcome genes inherent to the one-sample design and directly modeling the off-target effects of gRNAs on the outcome genes. As a result, Canon provides effective type I error control and high power across different sc-CRISPR platforms. 
 
-* The software is currently available on <a href="https://github.com/pekjoonwu/Canon">github</a>.
+* The software is currently available on <a href="https://github.com/pekjoonwu/Canon">github</a>, with a tutorial available <a href="https://pekjoonwu.github.io/Canon-analysis/index.html">here</a>.
 * Citation: Peijun Wu, and Xiang Zhou (2025). Canon: Causal inference of downstream genes in single cell CRISPR studies via instrumental variable analysis. 
 * Contact <a href="mailto:pekjoonw@umich.edu">Peijun Wu</a> with any questions, comments, or bugs reports.
 
