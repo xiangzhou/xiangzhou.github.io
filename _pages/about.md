@@ -16,6 +16,6 @@ Key application areas include genome-wide association studies (GWAS), transcript
 
 By developing novel analytic methods for state-of-the-art genetic and genomic techniques, our goal is to extract key biological insights from these data, advancing our understanding of how genomic variation influences biological functions and contributes to phenotypic variation in various human diseases and disease related complex traits. 
 
-<span style="color:blue">We have an open postdoctoral fellow position. If you are interested in joining our team, please feel free to reach out!</span>
+<p style="display: none;"> <span style="color:blue">We have an open postdoctoral fellow position. If you are interested in joining our team, please feel free to reach out!</span> </p>
 
 
