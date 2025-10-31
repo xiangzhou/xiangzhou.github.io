@@ -12,6 +12,7 @@ The full list of publications is available on <u><a href="https://scholar.google
 
 ## 2025
 
+* Siyu Hou, Wenjing Ma, and Xiang Zhou (2025). FastCCC: A permutation-free framework for scalable, robust, and reference-based cell-cell communication analysis in single cell transcriptomics studies. Nature Communications. in press.
 * Boran Gao#, Zheng Li, and Xiang Zhou# (2025). Logica: A likelihood framework for cross-ancestry local genetic correlation estimation using summary statistics. American Journal of Human Genetics. in press.
 * Jade Xiaoqing Wang, and Xiang Zhou (2025). ELLA: Modeling subcellular spatial variation of gene expression within cells in high-resolution spatial transcriptomics. Nature Communications. in press.
 * Chang Xu, Santhi Ganesh, and Xiang Zhou (2025). Statistical construction of calibrated prediction intervals for polygenic score based phenotype prediction. Nature Genetics. in press.
