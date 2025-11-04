@@ -36,6 +36,7 @@ author_profile: true
 
 ### Students
 
+* Haihan Zhang, PhD Student (06/2020 - 10/2025), admitted in 2020, co-advised with Prof. Alex Tsoi.
 * Zheng Li, PhD Student (07/2019 - 08/2025), admitted in 2020, now a Biostatistician at Vertex Pharmaceuticals.
 * Peijun Wu, PhD Student (05/2019 - 06/2025), admitted in 2020, now a Statistician at Eli Lilly.
 * Chang Xu, PhD Student (04/2019 - 09/2024), admitted in 2019, now a Biostatistician at AbbVie.
