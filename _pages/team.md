@@ -9,7 +9,6 @@ author_profile: true
 ## Current Members
 
 * Xiang Zhou, Professor of Statistics and Data Science. 
-* <a href="https://marvinquiet.github.io/">Wenjing Ma</a>, Postdoc (07/2023 - Present).
 * Siyu Hou, Postdoc (08/2023 - Present).
 * Hui Wan, Postdoc (09/2024 - Present).
 * Penghui Yang, Postdoc (12/2024 - Present).
@@ -21,6 +20,7 @@ author_profile: true
 
 ### Postdocs
 
+* Wenjing Ma, Postdoc (07/2023 - 11/2025), now an Assistant Professor at the Chinese University of Hong Kong, Shenzhen.
 * Lu Liu, Postdoc (07/2023 - 10/2025), now a Professor at Shandong University.
 * Jade Wang, Postdoc (03/2022 - 07/2025), now an Assistant Professor of Statistics at Texas A&M University.
 * Kalins Banerjee, Postdoc (09/2021 - 06/2025), now a Postdoc at University of Michigan.
