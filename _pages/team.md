@@ -33,6 +33,7 @@ author_profile: true
 * Shiquan Sun, Visiting PhD Student (09/2015-01/2017) and Postdoc (11/2017-12/2019), now a Professor at Xi'an Jiaotong University.
 * Julong Wei, Postdoc (11/2018 - 06/2019). now a Postdoc at Wayne State University.
 * Ping Zeng, Postdoc (10/2015-09/2017), now a Professor at Xuzhou Medical University.
+* Jingjing Yang, Postdoc (08/2014-12/2015), co-advised with Prof. Goncalo Abecasis, now an Associate Professor at Emory University
 
 ### Students
 
