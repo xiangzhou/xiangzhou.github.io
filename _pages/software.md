@@ -88,8 +88,8 @@ ECCO is computationally efficient approach for determining the optimal number of
 ELLA is a statistical method for modeling the subcellular localization of mRNAs and detecting genes that display spatial variation within cells in high-resolution spatial transcriptomics. ELLA utilizes a nonhomogeneous Poisson process to model the spatial count data within cells, creates a unified cellular coordinate system to anchor diverse shapes and morphologies across cells, and relies on an expression intensity function to capture the subcellular spatial distribution of mRNAs. ELLA can be applied to an arbitrary number of cells and detect a wide variety of subcellular localization patterns across diverse spatial transcriptomic techniques, while producing effective control of type I error and yielding high statistical power. With a computationally efficient algorithm, ELLA is scalable to tens of thousands of genes across tens of thousands of cells.
 
 * The package is currently available on <a href="https://github.com/jadexq/ELLA/tree/main">github</a> with a tutorail available <a href="https://jadexq.github.io/ELLA/">here</a>.
-* Citation: Jade Xiaoqing Wang, and Xiang Zhou (2024). ELLA: Modeling subcellular spatial variation of gene expression within cells in high-resolution spatial transcriptomics.
-* Contact <a href="mailto:jadewang@umich.edu">Jade Wang</a> with any questions, comments, or bugs reports.
+* Citation: Jade Xiaoqing Wang, and Xiang Zhou (2025). ELLA: Modeling subcellular spatial variation of gene expression within cells in high-resolution spatial transcriptomics. 16: 9920.
+* Contact <a href="mailto:jadewang@tamu.edu">Jade Wang</a> with any questions, comments, or bugs reports.
 
 
 ## Fine-mApping of causal genes for BInary Outcomes (FABIO)
@@ -106,8 +106,8 @@ FABIO is a transcriptome-wide association study (TWAS) fine-mapping method speci
 FastCCC is a highly scalable, permutation-free statistical toolkit tailored to identify critical cell-cell communications (CCCs) in the form of ligand-receptor interactions (LRIs) and uncover novel biological insights in single-cell transcriptomics studies. FastCCC presents an analytic solution for computing p-values in CCC analysis, enabling scalable analysis without the need for computationally intensive permutations. It introduces a modular communication score computation framework that calculates various communication scores through a range of algebraic operations between ligand and receptor expression levels, capturing a broad spectrum of CCC patterns and ensuring robust analysis. Additionally, FastCCC not only enables the analysis of large-scale datasets containing millions of cells, but also introduces reference-based CCC analysis, where large-scale datasets are treated as reference panels to substantially improve CCC analysis on user-collected datasets. 
 
 * The software is currently available on the <a href="https://svvord.github.io/FastCCC/">website</a>, with source code available on <a href="https://github.com/Svvord/FastCCC">github</a>.
-* Citation: Siyu Hou, Wenjing Ma, and Xiang Zhou (2025). FastCCC: A permutation-free framework for scalable, robust, and reference-based cell-cell communication analysis in single cell transcriptomics studies. Nature Communications.
-* Contact <a href="mailto:siyuh@umich.edu">Siyu Hou</a> with any questions, comments, or bugs reports.
+* Citation: Siyu Hou, Wenjing Ma, and Xiang Zhou (2025). FastCCC: A permutation-free framework for scalable, robust, and reference-based cell-cell communication analysis in single cell transcriptomics studies. Nature Communications. 16: 11428.
+* Contact <a href="mailto:siyu.hou@yale.edu">Siyu Hou</a> with any questions, comments, or bugs reports.
 
 
 
@@ -374,6 +374,17 @@ SRTsim is a software simulator for generating synthetic spatially resolved trans
 * The software is currently available on <a href="https://xzhoulab.github.io/SRTsim/">github</a>.
 * Citation: Jiaqiang Zhu*, Lulu Shang*, and Xiang Zhou (2022). SRTsim: spatial pattern preserving simulations for spatially resolved transcriptomics.
 * Contact <a href="mailto:jiaqiang@umich.edu">Jiaqiang Zhu</a> or <a href="mailto:lshang@mdanderson.org">Lulu Shang</a> with any questions, comments, or bugs reports.
+
+
+
+## Spatially embedded Virtual Cell (SVC)
+
+SVC is a software for capturing and predicting the subcellular localization of transcripts within individual cells in their spatial tissue context. SVC builds upon a Vision Transformer (ViT)-based framework that enables multi-modal and multi-scale modeling of subcellular ST data. It provides a unified architecture for modeling subcellular spatial localization of transcripts with cell-level identity and morphological features, while also preserving microenvironment context at the tissue level. In addition, it incorporates prior biological knowledge derived from external datasets and the literature on gene functionality, while naturally accommodating network connectivity across genes. SVC enables comprehensive, spatially grounded virtual representation of individual genes and cells, which is essential for an integrated understanding of cellular function. 
+
+* The software is currently available on <a href="https://github.com/aster-ww/SVC">github</a>.
+* Citation: Hui Wan, and Xiang Zhou (2026).  SVC: A vision transformer-based spatial virtual cell model for deciphering subcellular spatial transcriptomic heterogeneity. 
+* Contact <a href="mailto:hui.wan@yale.edu">Hui Wan</a> with any questions, comments, or bugs reports.
+
 
 
 ## Variational Inference based Probabilistic Canonical Correlation Analysis (VIPCCA)
