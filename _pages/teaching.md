@@ -5,10 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Yale University
 
-## University of Chicago
-
-- Stat 220. Statistical Methods and Applications. Autumn 2013; Winter 2014.
+- S&DS 3540/5540. Bayesian Modeling and Inference. Spring 2026.
 
 
 ## University of Michigan
@@ -26,6 +25,8 @@ author_profile: true
 - Epid 701, Fundamentals of Biostatistics. Summer 2023; Summer 2024.
 
 
-## Yale University
+## University of Chicago
 
-- S&DS 3540/5540. Bayesian Modeling and Inference. Spring 2026.
+- Stat 220. Statistical Methods and Applications. Autumn 2013; Winter 2014.
+
+
