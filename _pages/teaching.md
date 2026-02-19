@@ -24,3 +24,8 @@ author_profile: true
 - Biostat 810. Approaches to the Responsible Practice of Biostatistics. Fall 2024.
 - Biostat 830. Special Topics: Advanced Bayesian Models and Computational Methods. Winter 2015.
 - Epid 701, Fundamentals of Biostatistics. Summer 2023; Summer 2024.
+
+
+## Yale University
+
+- S&DS 3540/5540. Bayesian Modeling and Inference. Spring 2026.
