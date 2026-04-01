@@ -312,8 +312,16 @@ PQLseq is a method that fits generalized linear mixed models for analyzing RNA s
 PredInterval is designed to quantify phenotype prediction uncertainty through the construction of well-calibrated prediction intervals. PredInterval is non-parametric in natural and extracts information based on quantiles of phenotypic residuals through cross-validations, thus achieving well-calibrated coverage of true phenotypic values across a range of settings and traits with distinct genetic architecture. In addition, the PredInterval framework is general and can be paired with any PGS method. 
 
 * The software is available on <a href="https://github.com/xuchang0201/PredInterval">github</a>.
-* Citation: Chang Xu, Santhi Ganesh, and Xiang Zhou (2024). Statistical construction of calibrated prediction intervals for polygenic score based phenotype prediction.
+* Citation: Chang Xu, Santhi Ganesh, and Xiang Zhou (2025). Statistical construction of calibrated prediction intervals for polygenic score based phenotype prediction. Nature Genetics. 57: 2891–2900.
 * Contact <a href="mailto:xuchang@umich.edu">Chang Xu</a> with any questions, comments, or bugs reports.
+
+
+## Quantifying uncertainty for spatial domain detection in spatial transcriptomics (QUEST)
+QUEST is a computational method that incorporates uncertainty quantification into spatial domain detection for spatial transcriptomics studies. It provides probabilistic domain assignments and location-level uncertainty estimates, enabling the separation of confidently assigned locations from ambiguous ones. QUEST facilitates the identification of novel tissue structures, including transitional boundaries and heterogeneous subdomains, improves the accuracy of downstream analyses by prioritizing high-confidence locations, and helps guide the determination of the number of spatial domains.
+
+* The software is available on <a href="https://github.com/YanlinTong/QUEST">github</a>, with a tutorial available <a href="https://yanlintong.github.io/QUEST/articles/quest-tutorial.html">here</a>.
+* Citation: Yanlin Tong, Xiaoquan Wen, Jiandie Lin, and Xiang Zhou (2025). QUEST: Quantifying Uncertainty for Spatial Domain Detection in Spatial Transcriptomics.
+* Contact <a href="mailto:zoetong@umich.edu">Yanlin Tong</a> with any questions, comments, or bugs reports.
 
 
 ## Sex-dimorphic mapping with the sum of the single effects model (sdSuSiE)
