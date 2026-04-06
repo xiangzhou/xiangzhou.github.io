@@ -375,12 +375,24 @@ SPARK and SPARK-X are methods for detecting genes with spatial expression patter
 * Contact <a href="mailto:jiaqiang@umich.edu">Jiaqiang Zhu</a> or <a href="mailto:sqsunsph@xjtu.edu.cn">Shiquan Sun</a> with any questions, comments, or bugs reports.
 
 
+
+## Spatial Inference of CNV Events (SPICE)
+
+SPICE is a probabilistic framework to identify somatic copy number variations (CNVs) originating in cancer cells and associated allele-specific copy numbers (ASCNs) from spatially resolved transcriptomic (SRT) dataset. SPICE is compatible with SRT platforms of various resolutions which include multi-cellular resolution platforms such as Visium and near-single-cell resolution platforms such as Slide-seqV2. SPICE first identifies spatial domains within the malignant region, providing a spatially aware foundation for subclone detection. Then, it employs a Gaussian mixture model (GMM) for gene expression, a Binomial mixture model for allele counts at heterozygous SNPs, and finally, a data-adaptive joint likelihood framework integrating results from the two modalities.
+
+* The software is currently available on <a href="https://github.com/kzb193/SPICE">github</a>.
+* Citation: Kalins Banerjee, Robert Langefeld, Evan T. Keller, and Xiang Zhou (2026). SPICE: A robust computational framework for identifying copy number variations in spatial transcriptomics.
+* Contact <a href="mailto:kalinsba@umich.edu">Kalins Banerjee</a> with any questions, comments, or bugs reports.
+
+
+
+
 ## Spatially Resolved Transcriptomics simulator (SRTsim)
 
 SRTsim is a software simulator for generating synthetic spatially resolved transcriptomic (SRT) data based on a wide variety of SRT techniques. SRTsim incorporates spatial localization information to simulate SRT expression count data in a reproducible and scalable fashion, thus facilitating SRT experimental design and methodology development. A key benefit of SRTsim is its ability to not only maintain various location-wise and gene-wise SRT count properties but also preserve the spatial expression patterns of the SRT data on the tissue, thus making it feasible to evaluate SRT method performance for various SRT-specific analytic tasks using the synthetic data.
 
 * The software is currently available on <a href="https://xzhoulab.github.io/SRTsim/">github</a>.
-* Citation: Jiaqiang Zhu*, Lulu Shang*, and Xiang Zhou (2022). SRTsim: spatial pattern preserving simulations for spatially resolved transcriptomics.
+* Citation: Jiaqiang Zhu*, Lulu Shang*, and Xiang Zhou (2023). SRTsim: spatial pattern preserving simulations for spatially resolved transcriptomics. 24: 39.
 * Contact <a href="mailto:jiaqiang@umich.edu">Jiaqiang Zhu</a> or <a href="mailto:lshang@mdanderson.org">Lulu Shang</a> with any questions, comments, or bugs reports.
 
 
