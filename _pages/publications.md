@@ -13,7 +13,7 @@ The full list of publications is available on <u><a href="https://scholar.google
 ## 2026
 
 * Chang Xu\*, Siyu Hou\*, and Xiang Zhou (2026). Calibrated prediction intervals for polygenic scores: Updated comparisons, contextual calibration, and data normalization. <a href="https://www.medrxiv.org/content/10.64898/2026.05.15.26353336v1">medRxiv</a>.
-* Haihan Zhang, Kevin He, Lam C. Tsoi, Xiang Zhou (2026). mFABIO: An integrative multi-tissue TWAS fine-mapping approach to prioritize potentially causal genes and tissues underlying binary traits. PLOS Geneticds. in press. 
+* Haihan Zhang, Kevin He, Lam C. Tsoi, Xiang Zhou (2026). mFABIO: An integrative multi-tissue TWAS fine-mapping approach to prioritize potentially causal genes and tissues underlying binary traits. PLOS Genetics. in press. 
 
 ## 2025
 
