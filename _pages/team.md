@@ -12,9 +12,8 @@ author_profile: true
 * Siyu Hou, Postdoc (08/2023 - Present).
 * Hui Wan, Postdoc (09/2024 - Present).
 * Penghui Yang, Postdoc (12/2024 - Present).
-* Peiyao Zhao, PhD Student (10/2020 - Present), admitted to the PhD program in 2021.
-* Yanlin Tong, PhD Student (05/2022 - Present), admitted to the PhD program in 2023.
-* Robert Langefeld, PhD Student (09/2022 - Present), Genome Science Training Program (GSTP), admitted to the PhD program in 2024.
+* Yanlin Tong, PhD Student (05/2022 - Present), admitted to UM Biostatistics PhD program in 2023, co-advised with Prof. William Wen. 
+* Robert Langefeld, PhD Student (09/2022 - Present), Genome Science Training Program (GSTP), admitted to the UM Biostatistics PhD program in 2024, co-advised with Prof. Walter Dempsey and Prof. Matt Zawistowski. 
 
 ## Alumni
 
@@ -37,7 +36,8 @@ author_profile: true
 
 ### Students
 
-* Haihan Zhang, PhD Student (06/2020 - 10/2025), admitted in 2020, co-advised with Prof. Alex Tsoi.
+* Peiyao Zhao, PhD Student (10/2020 - 05/2026), admitted in 2021, now a Biostatistics Manager at Amgen.
+* Haihan Zhang, PhD Student (06/2020 - 10/2025), admitted in 2020, co-advised with Prof. Alex Tsoi, now a Postdoc at University of Michigan.
 * Zheng Li, PhD Student (07/2019 - 08/2025), admitted in 2020, now a Biostatistician at Vertex Pharmaceuticals.
 * Peijun Wu, PhD Student (05/2019 - 06/2025), admitted in 2020, now a Statistician at Eli Lilly.
 * Chang Xu, PhD Student (04/2019 - 09/2024), admitted in 2019, now a Biostatistician at AbbVie.
