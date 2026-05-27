@@ -10,9 +10,14 @@ The full list of publications is available on <u><a href="https://scholar.google
 
 \* authors contributed equally; # co-corresponding authors
 
+## 2026
+
+* Chang Xu\*, Siyu Hou\*, and Xiang Zhou (2026). Calibrated prediction intervals for polygenic scores: Updated comparisons, contextual calibration, and data normalization. <a href="https://www.medrxiv.org/content/10.64898/2026.05.15.26353336v1">medRxiv</a>.
+* Haihan Zhang, Kevin He, Lam C. Tsoi, Xiang Zhou (2026). mFABIO: An integrative multi-tissue TWAS fine-mapping approach to prioritize potentially causal genes and tissues underlying binary traits. PLOS Geneticds. in press. 
+
 ## 2025
 
-* Siyu Hou, Wenjing Ma, and Xiang Zhou (2025). FastCCC: A permutation-free framework for scalable, robust, and reference-based cell-cell communication analysis in single cell transcriptomics studies. Nature Communications. in press.
+* Siyu Hou, Wenjing Ma, and Xiang Zhou (2025). FastCCC: A permutation-free framework for scalable, robust, and reference-based cell-cell communication analysis in single cell transcriptomics studies. Nature Communications. 16: 11428.
 * Boran Gao#, Zheng Li, and Xiang Zhou# (2025). Logica: A likelihood framework for cross-ancestry local genetic correlation estimation using summary statistics. American Journal of Human Genetics. 112: 2789-2804. 
 * Jade Xiaoqing Wang, and Xiang Zhou (2025). ELLA: Modeling subcellular spatial variation of gene expression within cells in high-resolution spatial transcriptomics. Nature Communications. 16: 9920.
 * Chang Xu, Santhi Ganesh, and Xiang Zhou (2025). Statistical construction of calibrated prediction intervals for polygenic score based phenotype prediction. Nature Genetics. 57: 2891–2900.
