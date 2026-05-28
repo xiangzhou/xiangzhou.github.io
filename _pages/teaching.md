@@ -8,6 +8,7 @@ author_profile: true
 ## Yale University
 
 - S&DS 3540/5540. Bayesian Modeling and Inference. Spring 2026.
+- S&DS 3790/5790. Spatial Statistics. Fall 2026.
 
 
 ## University of Michigan
