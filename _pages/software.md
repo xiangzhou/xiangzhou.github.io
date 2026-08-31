@@ -325,6 +325,18 @@ QUEST is a computational method that incorporates uncertainty quantification int
 * Contact <a href="mailto:zoetong@umich.edu">Yanlin Tong</a> with any questions, comments, or bugs reports.
 
 
+
+## Deploy, run and evaluate single-cell foundation models with one command (scFoundry)
+
+scFoundry runs more than a dozen single-cell foundation models (scFMs) alongside established baselines through one containerised, reproducible interface — zero-shot embedding, label transfer, fine-tuning, benchmarking and representation-geometry probes, all from the same .h5ad input.
+
+* The software is available on <a href="https://svvord.github.io/scFoundry-docs/">github</a>.
+* Citation: Siyu Hou, Penghui Yang, Wenjing Ma, Jinxi Xiang, Jade Xiaoqing Wang, Hui Wan, Ying Ma, and Xiang Zhou (2026). Accessible and reproducible deployment reveals the practical boundaries of single-cell foundation models.
+* Contact <a href="mailto:siyu.hou@yale.edu">Siyu Hou</a> with any questions, comments, or bugs reports.
+
+
+
+
 ## Sex-dimorphic mapping with the sum of the single effects model (sdSuSiE)
 
 sdSuSiE is a software designed for powerful and scalable sex-dimorphic fine-mapping. sdSuSiE explicitly models sex differences in genetic effects while properly accounting for correlations between different types of genetic effects induced by LD and sample imbalance between sexes. It uses summary statistics from sex-stratified GWASs as inputs and extends the recent scalable variational inference algorithm SuSiE to fine-map sex-dimorphic effects. As a result, sdSuSiE achieves well-calibrated credible set coverage and posterior inclusion probabilities (PIPs), demonstrating high statistical power with controlled false discovery rates, all while maintaining computational efficiency. 
