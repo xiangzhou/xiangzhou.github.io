@@ -18,6 +18,7 @@ redirect_from:
 ## Academic Experience
 
 * Professor, Department of Statistics and Data Science, Yale University, 07/2025 - Present
+* Co-Director of Undergraduate Studies (DUS), Department of Statistics and Data Science, Yale University, 07/2026 - Present
 * Professor, Department of Biostatistics, University of Michigan, 09/2023 - 06/2025
 * Assistant Director, Artificial Intelligence and Digital Health Innovation, University of Michigan, 04/2025 - 06/2025.
 * Assistant Director for the Data, Analytics and IT workgroup, Precision Health, University of Michigan, 07/2021 - 03/2025.
