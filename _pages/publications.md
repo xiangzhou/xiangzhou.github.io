@@ -12,6 +12,9 @@ The full list of publications is available on <u><a href="https://scholar.google
 
 ## 2026
 
+* Peiyao Zhao, Ying Ma# and Xiang Zhou# (2026). Enhancing cell type deconvolution in spatial transcriptomics through incorporating multiple reference panels. PLOS Genetics. in press.
+* Chao Ning, and Xiang Zhou (2026). Genome-wide detection of genotype–environment interactions at biobank scale with fastGxE. Nature Genetics. in press.
+* Lu Liu, Zhongshang Yuan#, and Xiang Zhou# (2026). Sex-dimorphic fine-mapping with summary statistics in genome-wide association studies. Nature Communications. in press.
 * Peijun Wu, and Xiang Zhou (2026). Canon enables causal inference of downstream genes in single-cell CRISPR studies using instrumental variable analysis. Proc Natl Acad Sci U.S.A. 123: e2525359123.
 * Chang Xu\*, Siyu Hou\*, and Xiang Zhou (2026). Calibrated prediction intervals for polygenic scores: Updated comparisons, contextual calibration, and data normalization. <a href="https://www.medrxiv.org/content/10.64898/2026.05.15.26353336v1">medRxiv</a>.
 * Haihan Zhang, Kevin He, Lam C. Tsoi, and Xiang Zhou (2026). mFABIO: An integrative multi-tissue TWAS fine-mapping approach to prioritize potentially causal genes and tissues underlying binary traits. PLOS Genetics. 22: e1012157.
