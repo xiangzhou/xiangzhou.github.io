@@ -12,6 +12,7 @@ author_profile: true
 * Siyu Hou, Postdoc (08/2023 - Present).
 * Hui Wan, Postdoc (09/2024 - Present).
 * Penghui Yang, Postdoc (12/2024 - Present).
+* Liye Zhang, Postdoc (06/2026 - Present).
 * Yanlin Tong, PhD Student (05/2022 - Present), admitted to UM Biostatistics PhD program in 2023, co-advised with Prof. William Wen. 
 * Robert Langefeld, PhD Student (09/2022 - Present), Genome Science Training Program (GSTP), admitted to the UM Biostatistics PhD program in 2024, co-advised with Prof. Walter Dempsey and Prof. Matt Zawistowski. 
 
