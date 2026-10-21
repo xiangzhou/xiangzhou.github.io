@@ -22,7 +22,7 @@ author_profile: true
 * Wenjing Ma, Postdoc (07/2023 - 11/2025), now an Assistant Professor at the Chinese University of Hong Kong, Shenzhen.
 * Lu Liu, Postdoc (07/2023 - 10/2025), now a Professor at Shandong University.
 * Jade Wang, Postdoc (03/2022 - 07/2025), now an Assistant Professor of Statistics at Texas A&M University.
-* Kalins Banerjee, Postdoc (09/2021 - 06/2025), now a Postdoc at University of Michigan.
+* Kalins Banerjee, Postdoc (09/2021 - 06/2025), now an Assistant Professor at the Chatterjee Group Centres for Research and Education in Science and Technology.
 * Chao Ning, Postdoc (03/2023 - 05/2025), now an Associate Professor at Shandong Agriculture University.
 * Fred Boehm, Postdoc (06/2021-05/2023), now an Assistant Professor of Statistics at South Dakota State University.
 * Huanhuan Zhu, Postdoc (07/2018 - 09/2020), now an Associate Research Fellow in the Precision Health Research Institute at BGI.
